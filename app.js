@@ -30,10 +30,7 @@ window.addEventListener("popstate", showNavigationState);
 window.addEventListener("scroll", saveNavigationPosition, { passive: true });
 
 document.querySelector(".sidebar-avatar-home").addEventListener("click", () => {
-  if (history.state?.view === "project") {
-    history.back();
-    return;
-  }
+  history.replaceState({ view: "home", scrollX: 0, scrollY: 0 }, "");
   showNavigationState();
   window.scrollTo(0, 0);
 });
