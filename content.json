@@ -1,0 +1,2698 @@
+{
+  "profile": {
+    "name": "AIGC设计师",
+    "role": "具备 AIGC 商业视觉项目经验，擅长创意落地和流程搭建。毕业于东南大学。",
+    "previous": "",
+    "education": "",
+    "location": ""
+  },
+  "projects": [
+    {
+      "title": "文创品牌IP角色定制",
+      "sidebarTitle": "IP：岩页页",
+      "year": "2026",
+      "image": "assets/project01/1.KV.jpg",
+      "detailSections": [
+        {
+          "type": "image",
+          "src": "assets/project01/1.KV.jpg"
+        },
+        {
+          "type": "concept",
+          "background": "assets/project01/2.核心概念/2.核心概念.jpg",
+          "dividerImage": "assets/project01/2-3.IP分割线.png",
+          "copyImages": [
+            {
+              "src": "assets/project01/2.核心概念/文案1.svg",
+              "position": "intro"
+            },
+            {
+              "src": "assets/project01/2.核心概念/文案2.svg",
+              "position": "summary"
+            },
+            {
+              "src": "assets/project01/2.核心概念/文案3.svg",
+              "position": "body"
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/project01/3.IP战略定位.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/project01/4.情绪板.jpg"
+        },
+        {
+          "type": "composition",
+          "background": "assets/project01/5.草图深化/草图深化背景.jpg",
+          "layers": [
+            {
+              "src": "assets/project01/5.草图深化/文案1.svg",
+              "left": "5.55%",
+              "top": "5.2%",
+              "width": "21%",
+              "zIndex": 4
+            },
+            {
+              "src": "assets/project01/5.草图深化/气泡.png",
+              "left": "2.15%",
+              "top": "5.55%",
+              "width": "36.3%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/5.草图深化/草图.png",
+              "left": "6.4%",
+              "top": "8.9%",
+              "width": "13.6%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/5.草图深化/初稿.png",
+              "left": "20.5%",
+              "top": "11%",
+              "width": "15.4%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/5.草图深化/Sketching & Optimization.png",
+              "left": "34.7%",
+              "top": "10.4%",
+              "width": "35.4%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/5.草图深化/侧面立像 1.png",
+              "left": "31.9%",
+              "top": "17%",
+              "width": "38%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/5.草图深化/文案2.svg",
+              "left": "11.5%",
+              "top": "25.7%",
+              "width": "28.1%",
+              "zIndex": 4
+            },
+            {
+              "src": "assets/project01/5.草图深化/爱心.png",
+              "left": "69.8%",
+              "top": "47.2%",
+              "width": "6.2%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/5.草图深化/文案3.svg",
+              "left": "25.4%",
+              "top": "40.7%",
+              "width": "15.1%",
+              "zIndex": 4
+            },
+            {
+              "src": "assets/project01/5.草图深化/终稿.png",
+              "left": "73.5%",
+              "top": "46.3%",
+              "width": "13.2%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/5.草图深化/文案4.svg",
+              "left": "29.4%",
+              "top": "58.9%",
+              "width": "41.3%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/5.草图深化/SOP文案.svg",
+              "left": "20.2%",
+              "top": "62.2%",
+              "width": "66.2%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/5.草图深化/材质系统.svg",
+              "left": "7.5%",
+              "top": "69.8%",
+              "width": "23.2%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/5.草图深化/三视图.png",
+              "left": "27.8%",
+              "top": "69.8%",
+              "width": "46.3%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/5.草图深化/档案扣.png",
+              "left": "39.16667%",
+              "top": "2.61805%",
+              "width": "60.76389%",
+              "zIndex": 20
+            }
+          ]
+        },
+        {
+          "type": "composition",
+          "background": "assets/project01/6.1羊毛毡/背景.jpg?v=1794894971204930666",
+          "layers": [
+            {
+              "src": "assets/project01/6.1羊毛毡/Material Theme.png",
+              "left": "13.7500%",
+              "top": "10.5605%",
+              "width": "20.4167%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/6.1羊毛毡/WoolFelt.png",
+              "left": "12.5694%",
+              "top": "11.2091%",
+              "width": "23.4028%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/6.1羊毛毡/文案0.png",
+              "left": "10.4167%",
+              "top": "17.7997%",
+              "width": "27.7778%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/6.1羊毛毡/头像.png",
+              "left": "47.0139%",
+              "top": "5.7602%",
+              "width": "45.5556%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/6.1羊毛毡/Wish a good sleep!.png",
+              "left": "59.4444%",
+              "top": "18.2148%",
+              "width": "31.0417%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/6.1羊毛毡/黄铜钉.png",
+              "zIndex": 7,
+              "left": "27.5000%",
+              "top": "24.2346%",
+              "width": "18.6111%"
+            }
+          ]
+        },
+        {
+          "type": "composition",
+          "background": "assets/project01/6.2针织/背景.jpg",
+          "layers": [
+            {
+              "src": "assets/project01/6.2针织/Material Theme.png",
+              "left": "13.95833%",
+              "top": "10.63488%",
+              "width": "20.41667%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/6.2针织/标题.png",
+              "left": "9.51389%",
+              "top": "12.32253%",
+              "width": "30.00000%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/6.2针织/文案0.png",
+              "left": "12.50000%",
+              "top": "19.58211%",
+              "width": "23.81944%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/6.2针织/头像.png",
+              "left": "45.76389%",
+              "top": "6.16126%",
+              "width": "42.70833%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/6.2针织/Enjoy the quiet time~.png",
+              "left": "58.33333%",
+              "top": "16.74257%",
+              "width": "31.66667%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/6.2针织/media.png",
+              "left": "8.12500%",
+              "top": "26.54701%",
+              "width": "82.08333%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/6.2针织/黄铜钉.png",
+              "left": "38.95833%",
+              "top": "24.99330%",
+              "width": "16.45833%",
+              "zIndex": 4
+            }
+          ]
+        },
+        {
+          "type": "composition",
+          "background": "assets/project01/7.物料延展/画布.svg",
+          "layers": [
+            {
+              "src": "assets/project01/7.物料延展/标牌.png",
+              "left": "3.958333%",
+              "top": "-0.286807%",
+              "width": "28.611111%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/7.物料延展/场景1.jpg",
+              "left": "0.000000%",
+              "top": "17.144678%",
+              "width": "50.000000%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/7.物料延展/场景2.jpg",
+              "left": "50.000000%",
+              "top": "17.144678%",
+              "width": "50.000000%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/7.物料延展/手机壳1.png",
+              "left": "22.847222%",
+              "top": "49.776928%",
+              "width": "23.541667%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/7.物料延展/手机壳2.png",
+              "left": "53.819444%",
+              "top": "49.776928%",
+              "width": "23.541667%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/7.物料延展/场景3.jpg",
+              "left": "0.000000%",
+              "top": "69.152326%",
+              "width": "50.000000%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/7.物料延展/发夹1.png",
+              "left": "62.91667%",
+              "top": "70.49076%",
+              "width": "28.81944%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/7.物料延展/发夹2.png",
+              "left": "63.61111%",
+              "top": "90.47164%",
+              "width": "28.47222%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/7.物料延展/发夹3.png",
+              "left": "61.11111%",
+              "top": "79.63671%",
+              "width": "30.55556%",
+              "zIndex": 3
+            }
+          ]
+        },
+        {
+          "type": "composition",
+          "background": "assets/project01/8.活动延展/画布.svg",
+          "layers": [
+            {
+              "src": "assets/project01/8.活动延展/易拉宝.jpg",
+              "left": "0.000000%",
+              "top": "36.423841%",
+              "width": "50.000000%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/8.活动延展/线下物料组合.jpg",
+              "left": "50.000000%",
+              "top": "36.423841%",
+              "width": "50.000000%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/8.活动延展/路牌2 1.png",
+              "left": "64.027778%",
+              "top": "0.000000%",
+              "width": "36.597222%",
+              "zIndex": 3
+            }
+          ]
+        },
+        {
+          "type": "composition",
+          "background": "assets/project01/9.拓展SOP/画布.svg",
+          "layers": [
+            {
+              "src": "assets/project01/9.拓展SOP/标题.png",
+              "left": "1.250000%",
+              "top": "9.467456%",
+              "width": "35.486111%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/背景4.jpg",
+              "left": "2.569444%",
+              "top": "26.528600%",
+              "width": "11.875000%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/背景3.jpg",
+              "left": "15.000000%",
+              "top": "26.528600%",
+              "width": "14.305556%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/背景2.jpg",
+              "left": "15.000000%",
+              "top": "42.011834%",
+              "width": "14.513889%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/背景1.jpg",
+              "left": "29.861111%",
+              "top": "26.528600%",
+              "width": "11.805556%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/文案1.png",
+              "left": "2.569444%",
+              "top": "50.000000%",
+              "width": "15.277778%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/主体.jpg",
+              "left": "2.569444%",
+              "top": "53.550296%",
+              "width": "39.097222%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/文案2.png",
+              "left": "2.569444%",
+              "top": "91.518738%",
+              "width": "26.041667%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/流程.jpg",
+              "left": "42.847222%",
+              "top": "26.528600%",
+              "width": "54.583333%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/副标题.png",
+              "left": "67.361111%",
+              "top": "17.455621%",
+              "width": "31.875000%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/文案3.png",
+              "left": "42.847222%",
+              "top": "91.518738%",
+              "width": "11.041667%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01/9.拓展SOP/提示词.png",
+              "left": "82.638889%",
+              "top": "70.808679%",
+              "width": "13.541667%",
+              "zIndex": 3
+            }
+          ]
+        },
+        {
+          "type": "image",
+          "src": "assets/project01/10.尾页.jpg"
+        }
+      ]
+    },
+    {
+      "title": "动画短片《岩页页的纸团子》",
+      "sidebarTitle": "AIGC动画短片",
+      "year": "2026",
+      "image": "",
+      "detailSections": [
+        {
+          "type": "video",
+          "src": "assets/project01/1111清晰度优化.mov",
+          "label": "1111清晰度优化"
+        },
+        {
+          "type": "composition",
+          "aspectRatio": "1440 / 6878",
+          "layers": [
+            {
+              "src": "assets/project01-02/墙面.jpg",
+              "left": "0.00000%",
+              "top": "0.00000%",
+              "width": "100.00000%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/定格电影截图.jpg",
+              "left": "0.00000%",
+              "top": "1.45391%",
+              "width": "55.48611%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/钉子.png",
+              "left": "15.13889%",
+              "top": "0.08723%",
+              "width": "13.40278%",
+              "zIndex": 4
+            },
+            {
+              "src": "assets/project01-02/定格动画 手工粗粝感.png",
+              "left": "35.00000%",
+              "top": "5.49578%",
+              "width": "13.05556%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01-02/黏土 织物纤维.png",
+              "left": "35.83333%",
+              "top": "10.11922%",
+              "width": "10.90278%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01-02/低饱和.png",
+              "left": "37.91667%",
+              "top": "13.92847%",
+              "width": "7.63889%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01-02/前期文案.png",
+              "left": "58.05556%",
+              "top": "3.31492%",
+              "width": "38.40278%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/路牌.png",
+              "left": "50.83333%",
+              "top": "11.22419%",
+              "width": "48.12500%",
+              "zIndex": 5
+            },
+            {
+              "src": "assets/project01-02/中期文案.png",
+              "left": "0.41667%",
+              "top": "18.34836%",
+              "width": "34.16667%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01-02/主图1.png",
+              "left": "35.00000%",
+              "top": "23.05903%",
+              "width": "64.79167%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/主图2.png",
+              "left": "33.33333%",
+              "top": "30.99738%",
+              "width": "65.97222%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/主图3.png",
+              "left": "27.91667%",
+              "top": "38.17970%",
+              "width": "71.31944%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/主图4.png",
+              "left": "28.19444%",
+              "top": "44.57691%",
+              "width": "70.76389%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/主图5.png",
+              "left": "34.44444%",
+              "top": "50.97412%",
+              "width": "64.93056%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project01-02/【优化材质提示词示例】.png",
+              "left": "5.13889%",
+              "top": "32.10236%",
+              "width": "20.00000%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/【基于场景主图扩分镜提示词示例】.png",
+              "left": "5.13889%",
+              "top": "46.14714%",
+              "width": "20.27778%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/背面头像.png",
+              "left": "55.55556%",
+              "top": "61.32597%",
+              "width": "48.12500%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/箭头.png",
+              "left": "17.22222%",
+              "top": "64.35010%",
+              "width": "3.19444%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/首尾帧生成.png",
+              "left": "2.36111%",
+              "top": "66.00756%",
+              "width": "32.84722%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/分镜背景.jpg",
+              "left": "0.00000%",
+              "top": "67.63594%",
+              "width": "100.00000%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/01-A-桌脚特写 1.jpg",
+              "left": "4.16667%",
+              "top": "67.63594%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/01-B-纸团掉落 1.jpg",
+              "left": "27.43056%",
+              "top": "67.63594%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/02-挠头 1.jpg",
+              "left": "50.69444%",
+              "top": "67.63594%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/03-桌面茶壶 1.jpg",
+              "left": "73.95833%",
+              "top": "67.63594%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/06-橱窗空镜 1.jpg",
+              "left": "4.16667%",
+              "top": "70.45653%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/07-橱窗人物虚化 1.jpg",
+              "left": "27.43056%",
+              "top": "70.45653%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/09-海滩仰卧 1.jpg",
+              "left": "4.16667%",
+              "top": "73.27712%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/10-A-仰卧近景 1.jpg",
+              "left": "27.43056%",
+              "top": "73.27712%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/10-B-仰卧想起 1.jpg",
+              "left": "50.69444%",
+              "top": "73.27712%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/13-海滩本子特写 1.jpg",
+              "left": "73.95833%",
+              "top": "73.27712%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/14-灵感石特写 1.jpg",
+              "left": "4.16667%",
+              "top": "76.09770%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/14-0 1.jpg",
+              "left": "27.43056%",
+              "top": "76.09770%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/15-坐铁盒靠近 1.jpg",
+              "left": "50.69444%",
+              "top": "76.09770%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/17-拾起灵感石特写 1.jpg",
+              "left": "73.95833%",
+              "top": "76.09770%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/18-拾起纸团特写 1.jpg",
+              "left": "4.16667%",
+              "top": "78.91829%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/20-打开纸团 1.jpg",
+              "left": "27.43056%",
+              "top": "78.91829%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/22-B-刚戳破 1.jpg",
+              "left": "50.69444%",
+              "top": "78.91829%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/23C-大洞 1.jpg",
+              "left": "73.95833%",
+              "top": "78.91829%",
+              "width": "21.87500%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project01-02/箭头.png",
+              "left": "14.02778%",
+              "top": "84.03606%",
+              "width": "3.19444%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/视频片段生成.png",
+              "left": "2.08333%",
+              "top": "85.40273%",
+              "width": "26.80556%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/01纸团掉落.gif",
+              "left": "3.88889%",
+              "top": "86.74033%",
+              "width": "29.72222%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/03关灯.gif",
+              "left": "35.13889%",
+              "top": "86.74033%",
+              "width": "29.72222%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/20结尾.gif",
+              "left": "66.38889%",
+              "top": "86.74033%",
+              "width": "29.72222%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/09海滩.gif",
+              "left": "3.88889%",
+              "top": "90.54958%",
+              "width": "29.72222%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/11海滩.gif",
+              "left": "35.13889%",
+              "top": "90.54958%",
+              "width": "29.72222%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/14铁盒.gif",
+              "left": "66.38889%",
+              "top": "90.54958%",
+              "width": "29.72222%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/箭头.png",
+              "left": "12.63889%",
+              "top": "94.76592%",
+              "width": "3.19444%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project01-02/剪辑.png",
+              "left": "2.91667%",
+              "top": "96.30707%",
+              "width": "25.00000%",
+              "zIndex": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "外境电商AIGC自动化营销方案",
+      "sidebarTitle": "外境电商AIGC自动化营销方案",
+      "year": "2026",
+      "image": "assets/project02/1.封面.jpg",
+      "detailSections": [
+        {
+          "type": "image",
+          "src": "assets/project02/1.封面.jpg"
+        },
+        {
+          "type": "composition",
+          "aspectRatio": "1440 / 1080",
+          "className": "project02-intro",
+          "layers": [
+            {
+              "src": "assets/project02/2.项目介绍/顶部标志.png",
+              "left": "40.625000%",
+              "top": "8.333333%",
+              "width": "18.750000%"
+            },
+            {
+              "src": "assets/project02/2.项目介绍/01.jpg",
+              "left": "4.166667%",
+              "top": "45.000000%",
+              "width": "30.138889%"
+            },
+            {
+              "src": "assets/project02/2.项目介绍/02.jpg",
+              "left": "35.000000%",
+              "top": "45.000000%",
+              "width": "30.138889%"
+            },
+            {
+              "src": "assets/project02/2.项目介绍/03.jpg",
+              "left": "65.763889%",
+              "top": "45.000000%",
+              "width": "30.138889%"
+            },
+            {
+              "src": "assets/project02/2.项目介绍/LOGO.png",
+              "left": "81.180556%",
+              "top": "40.648148%",
+              "width": "14.722222%"
+            }
+          ],
+          "textLayers": [
+            {
+              "left": "0.000000%",
+              "top": "19.259259%",
+              "width": "98.611111%",
+              "fontSize": 20,
+              "lines": [
+                "项目介绍"
+              ],
+              "fontWeight": 700,
+              "align": "center",
+              "lineHeight": 1.2
+            },
+            {
+              "left": "0.000000%",
+              "top": "23.240741%",
+              "width": "100.000000%",
+              "fontSize": 13,
+              "lines": [
+                "以暗黑机能品牌 ACRONYM为例",
+                "构建一个具有产品迁移，背景重绘，数字人口播，图片编辑功能的AI赋能电商项目。",
+                "输出一套可用于(跨境)电商行业的快速生成高质量AI电商效果图和带货口播视频生成的工作流。"
+              ],
+              "align": "center",
+              "lineHeight": 1.3
+            },
+            {
+              "left": "25.763889%",
+              "top": "40.555556%",
+              "width": "49.305556%",
+              "fontSize": 32,
+              "lines": [
+                "高性能机能服装 × 都市生存系统 × 未来主义视觉"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.2,
+              "effect": "reflection"
+            },
+            {
+              "left": "9.375000%",
+              "top": "74.259259%",
+              "width": "22.916667%",
+              "fontSize": 20,
+              "lines": [
+                "高端机能服饰的传统拍摄，",
+                [
+                  {
+                    "text": "成本高、排期长、形象不可控；",
+                    "bold": true
+                  }
+                ],
+                "一次拍摄锁死一组素材，难以支",
+                "撑多平台高频更新。"
+              ],
+              "color": "#fff",
+              "lineHeight": 1.13
+            },
+            {
+              "left": "37.222222%",
+              "top": "74.259259%",
+              "width": "25.694444%",
+              "fontSize": 20,
+              "lines": [
+                "AI 模特与数字人的价值不在\"替代拍",
+                [
+                  {
+                    "text": "摄\"，而在\""
+                  },
+                  {
+                    "text": "一致性复用",
+                    "bold": true
+                  },
+                  {
+                    "text": "\"——固定形象、"
+                  }
+                ],
+                "多场景延展、分钟级产出、资产沉淀。"
+              ],
+              "color": "#fff",
+              "lineHeight": 1.13
+            },
+            {
+              "left": "67.708333%",
+              "top": "74.259259%",
+              "width": "26.388889%",
+              "fontSize": 20,
+              "lines": [
+                "选择 ACRONYM，",
+                [
+                  {
+                    "text": "是因为它的"
+                  },
+                  {
+                    "text": "美学高度符号化",
+                    "bold": true
+                  },
+                  {
+                    "text": "：冷峻、单色、"
+                  }
+                ],
+                "结构感强。它最能检验 AI 对「版型、材",
+                "质、结构细节」的还原能力。"
+              ],
+              "color": "#fff",
+              "lineHeight": 1.13
+            },
+            {
+              "left": "0.000000%",
+              "top": "90.925926%",
+              "width": "98.611111%",
+              "fontSize": 16,
+              "lines": [
+                "用 AI 把机能美学的\"结构语言\"翻译成电商消费者能看懂、能信任、愿意下单的视觉表达"
+              ],
+              "align": "center",
+              "lineHeight": 1.2
+            },
+            {
+              "left": "0.000000%",
+              "top": "93.333333%",
+              "width": "98.611111%",
+              "fontSize": 24,
+              "lines": [
+                "一次生成，直接变成可上架的销售素材。"
+              ],
+              "align": "center",
+              "fontWeight": 700,
+              "lineHeight": 1.2
+            }
+          ]
+        },
+        {
+          "type": "composition",
+          "className": "project02-task",
+          "aspectRatio": "2 / 1",
+          "layers": [
+            {
+              "src": "assets/project02/3.项目任务.png",
+              "left": "4.722222%",
+              "top": "31.666667%",
+              "width": "47.500000%",
+              "zIndex": 1
+            }
+          ],
+          "textLayers": [
+            {
+              "left": "56.805556%",
+              "top": "31.805556%",
+              "width": "16.944444%",
+              "fontSize": 21,
+              "lines": [
+                "01 业务任务："
+              ],
+              "lineHeight": 1.42,
+              "fontWeight": 700,
+              "zIndex": 3
+            },
+            {
+              "left": "56.805556%",
+              "top": "35.972222%",
+              "width": "16.944444%",
+              "fontSize": 16,
+              "lines": [
+                "•  建立统一品牌认知；",
+                "•  支持多平台分发；",
+                "•  降本增效、缩短拍摄排期"
+              ],
+              "lineHeight": 1.42,
+              "fontWeight": 400,
+              "zIndex": 3
+            },
+            {
+              "left": "74.652778%",
+              "top": "31.805556%",
+              "width": "21.180556%",
+              "fontSize": 21,
+              "lines": [
+                "02 内容任务："
+              ],
+              "lineHeight": 1.42,
+              "fontWeight": 700,
+              "zIndex": 3
+            },
+            {
+              "left": "74.652778%",
+              "top": "35.972222%",
+              "width": "21.180556%",
+              "fontSize": 16,
+              "lines": [
+                "•  搭建卖点系统；",
+                "•  输出 AI 模特图 / 数字人视频 / 详情页；",
+                "•  主图·副图·详情页模块提案"
+              ],
+              "lineHeight": 1.42,
+              "fontWeight": 400,
+              "zIndex": 3
+            },
+            {
+              "left": "56.805556%",
+              "top": "51.250000%",
+              "width": "16.944444%",
+              "fontSize": 21,
+              "lines": [
+                "03 平台任务："
+              ],
+              "lineHeight": 1.42,
+              "fontWeight": 700,
+              "zIndex": 3
+            },
+            {
+              "left": "56.805556%",
+              "top": "55.416667%",
+              "width": "16.944444%",
+              "fontSize": 16,
+              "lines": [
+                "•  小红书（种草与信任）",
+                "•  抖音（快速抓取转化）",
+                "•  淘宝（成交决策）",
+                "•  亚马逊（白底主图 + 英文逻辑）"
+              ],
+              "lineHeight": 1.42,
+              "fontWeight": 400,
+              "zIndex": 3
+            },
+            {
+              "left": "74.652778%",
+              "top": "51.250000%",
+              "width": "22.222222%",
+              "fontSize": 21,
+              "lines": [
+                "04 AIGC任务："
+              ],
+              "lineHeight": 1.42,
+              "fontWeight": 700,
+              "zIndex": 3
+            },
+            {
+              "left": "74.652778%",
+              "top": "55.416667%",
+              "width": "22.222222%",
+              "fontSize": 16,
+              "lines": [
+                "•  角色一致性（固定模特形象）；",
+                "•  服装一致性（版型 / 材质 / 细节）；",
+                "•  多场景生成·数字人动态·流程提效"
+              ],
+              "lineHeight": 1.42,
+              "fontWeight": 400,
+              "zIndex": 3
+            },
+            {
+              "left": "56.388889%",
+              "top": "74.861111%",
+              "width": "41.666667%",
+              "fontSize": 26,
+              "lines": [
+                [
+                  {
+                    "text": "把 ACRONYM 电商视觉做成“"
+                  },
+                  {
+                    "text": "可落地、可复用、可验",
+                    "bold": true
+                  }
+                ],
+                [
+                  {
+                    "text": "证”的"
+                  },
+                  {
+                    "text": "商业系统",
+                    "bold": true
+                  },
+                  {
+                    "text": "，每份内容都服务于转化。"
+                  }
+                ]
+              ],
+              "lineHeight": 1.42,
+              "fontWeight": 400,
+              "zIndex": 3
+            }
+          ]
+        },
+        {
+          "type": "composition",
+          "className": "project02-persona",
+          "aspectRatio": "1440 / 1080",
+          "layers": [
+            {
+              "src": "assets/project02/4.用户画像/image 347.jpg",
+              "left": "61.388889%",
+              "top": "24.907407%",
+              "width": "34.375000%"
+            },
+            {
+              "src": "assets/project02/4.用户画像/image 342.jpg",
+              "left": "61.388889%",
+              "top": "45.092593%",
+              "width": "34.375000%"
+            },
+            {
+              "src": "assets/project02/4.用户画像/image 343.jpg",
+              "left": "61.388889%",
+              "top": "65.370370%",
+              "width": "34.375000%"
+            }
+          ],
+          "textLayers": [
+            {
+              "left": "5.347222%",
+              "top": "14.722222%",
+              "width": "45.138889%",
+              "fontSize": 28,
+              "lines": [
+                "品牌用户画像"
+              ],
+              "lineHeight": 1.2,
+              "zIndex": 3,
+              "fontWeight": 700
+            },
+            {
+              "left": "5.347222%",
+              "top": "25.185185%",
+              "width": "50.000000%",
+              "fontSize": 20,
+              "lines": [
+                "01都市潮流 / 机能爱好者"
+              ],
+              "lineHeight": 1.2,
+              "zIndex": 3,
+              "fontWeight": 700
+            },
+            {
+              "left": "5.833333%",
+              "top": "27.685185%",
+              "width": "50.694444%",
+              "fontSize": 17,
+              "lines": [
+                "• 关注版型、材质、细节；功能 + 审美双重需求；",
+                "• 被细节特写、上身效果打动"
+              ],
+              "lineHeight": 1.52,
+              "zIndex": 3
+            },
+            {
+              "left": "5.347222%",
+              "top": "38.796296%",
+              "width": "50.694444%",
+              "fontSize": 20,
+              "lines": [
+                "02户外 / 科技穿搭者"
+              ],
+              "lineHeight": 1.2,
+              "zIndex": 3,
+              "fontWeight": 700
+            },
+            {
+              "left": "5.833333%",
+              "top": "41.296296%",
+              "width": "52.777778%",
+              "fontSize": 17,
+              "lines": [
+                "• 关注功能性、耐用性； Gorpcore / Techwear 风格；",
+                "• 被场景化呈现、实测表达打动；理性决策、参数敏感"
+              ],
+              "lineHeight": 1.52,
+              "zIndex": 3
+            },
+            {
+              "left": "5.347222%",
+              "top": "52.407407%",
+              "width": "52.083333%",
+              "fontSize": 20,
+              "lines": [
+                "03高级定制 / 身份认同者"
+              ],
+              "lineHeight": 1.2,
+              "zIndex": 3,
+              "fontWeight": 700
+            },
+            {
+              "left": "5.833333%",
+              "top": "54.907407%",
+              "width": "52.777778%",
+              "fontSize": 17,
+              "lines": [
+                "• 关注设计辨识度与身份认同；认可 Errolson Hugh 与品牌基因；",
+                "• 被冷峻高级的视觉语言打动；价格敏感度低"
+              ],
+              "lineHeight": 1.52,
+              "zIndex": 3
+            },
+            {
+              "left": "5.347222%",
+              "top": "71.203704%",
+              "width": "52.777778%",
+              "fontSize": 25,
+              "lines": [
+                "ACRONYM 的用户不是\"看好看\"，",
+                [
+                  {
+                    "text": "而是\""
+                  },
+                  {
+                    "text": "看结构、看质感、看上身逻辑",
+                    "bold": true
+                  },
+                  {
+                    "text": "\""
+                  }
+                ],
+                [
+                  {
+                    "text": "电商视觉必须放大： "
+                  },
+                  {
+                    "text": "结构特写、面料质感、上",
+                    "bold": true
+                  }
+                ],
+                [
+                  {
+                    "text": "身版型、场景化呈现",
+                    "bold": true
+                  }
+                ],
+                [
+                  {
+                    "text": "这正是"
+                  },
+                  {
+                    "text": "驱动高客单转化",
+                    "bold": true
+                  },
+                  {
+                    "text": "的关键触点。"
+                  }
+                ]
+              ],
+              "lineHeight": 1.32,
+              "zIndex": 3
+            }
+          ]
+        },
+        {
+          "type": "composition",
+          "className": "project02-automation",
+          "aspectRatio": "1440 / 4800",
+          "layers": [
+            {
+              "src": "assets/project02/5.自动化链路/链路框架.svg",
+              "left": "0%",
+              "top": "0%",
+              "width": "100%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project02/5.自动化链路/男模头像.jpg",
+              "left": "10.277777777777777%",
+              "top": "7.625%",
+              "width": "10.11111111111111%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/男模特头像四视图.jpg",
+              "left": "20.777777777777782%",
+              "top": "7.625%",
+              "width": "10.11111111111111%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/男模全身.jpg",
+              "left": "31.27777777777778%",
+              "top": "7.625%",
+              "width": "18.200000000000003%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/女模头像.jpg",
+              "left": "53.522222222222226%",
+              "top": "7.625%",
+              "width": "10.188888888888888%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/女模头像四视图.jpg",
+              "left": "64.10000000000001%",
+              "top": "7.625%",
+              "width": "10.188888888888888%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/女模全身.jpg",
+              "left": "74.67777777777779%",
+              "top": "7.625%",
+              "width": "18.200000000000003%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/服装.jpg",
+              "left": "10.277777777777777%",
+              "top": "14.291666666666666%",
+              "width": "12.083333333333332%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/任务类型.jpg",
+              "left": "10.277777777777777%",
+              "top": "38.395833333333336%",
+              "width": "36.711111111111116%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/提示词结构模板.jpg",
+              "left": "57.638888888888886%",
+              "top": "36.729166666666664%",
+              "width": "36.711111111111116%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/模型选择依据.jpg",
+              "left": "10.277777777777777%",
+              "top": "52.604166666666664%",
+              "width": "39.333333333333336%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/模型分配.jpg",
+              "left": "57.638888888888886%",
+              "top": "52.583333333333336%",
+              "width": "29.25%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/5.自动化链路/平台适配.jpg",
+              "left": "10.277777777777777%",
+              "top": "87.77083333333333%",
+              "width": "39.333333333333336%",
+              "zIndex": 2
+            }
+          ],
+          "textLayers": [
+            {
+              "left": "8.61111111111111%",
+              "top": "3.8125%",
+              "width": "88.61111111111111%",
+              "fontSize": 28,
+              "lines": [
+                "01 ASSET · 资产沉淀"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "9.166666666666666%",
+              "top": "4.541666666666667%",
+              "width": "88.05555555555556%",
+              "fontSize": 17,
+              "lines": [
+                "• 先建库，再跑图。所有可复用资产统一管理，避免每次从零开始。"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "8.61111111111111%",
+              "top": "34.583333333333336%",
+              "width": "88.61111111111111%",
+              "fontSize": 28,
+              "lines": [
+                "02 TASK · 任务拆解"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "9.166666666666666%",
+              "top": "35.3125%",
+              "width": "88.05555555555556%",
+              "fontSize": 17,
+              "lines": [
+                "• 一个商品拆成 N 张图，每行一个任务，明确参考图和提示词。"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "8.61111111111111%",
+              "top": "50.208333333333336%",
+              "width": "88.61111111111111%",
+              "fontSize": 28,
+              "lines": [
+                "03 GENERATE · 批量生成"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "9.166666666666666%",
+              "top": "50.9375%",
+              "width": "88.05555555555556%",
+              "fontSize": 17,
+              "lines": [
+                "• 按任务类型选对模型和工具，执行链路自动化。"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "8.61111111111111%",
+              "top": "65.9375%",
+              "width": "88.61111111111111%",
+              "fontSize": 28,
+              "lines": [
+                "04 REVIEW · 审核迭代"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "9.166666666666666%",
+              "top": "66.66666666666667%",
+              "width": "88.05555555555556%",
+              "fontSize": 17,
+              "lines": [
+                "• AI 负责发散，人工负责筛选、统一与品控。"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "8.61111111111111%",
+              "top": "85.3125%",
+              "width": "88.61111111111111%",
+              "fontSize": 28,
+              "lines": [
+                "05 OUTPUT · 多平台输出"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "9.166666666666666%",
+              "top": "86.04166666666667%",
+              "width": "88.05555555555556%",
+              "fontSize": 17,
+              "lines": [
+                "• 同一套资产，适配不同平台。"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "5.416666666666667%",
+              "top": "1.7708333333333333%",
+              "width": "91.80555555555556%",
+              "fontSize": 32,
+              "lines": [
+                "AIGC设计系统"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "5.375%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "1.1 模特库"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.76388888888889%",
+              "top": "6.0625%",
+              "width": "86.45833333333333%",
+              "fontSize": 17,
+              "lines": [
+                "• 基础档案：model_id / 角色名 / 三视图 / 外貌特征（年龄、人种、肤色、脸型、五官、发型发色）",
+                "• 绑定工作流：换装工作流 / 姿势迁移工作流 / 场景生成工作流",
+                "• 资产示例："
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "11.9375%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "1.2 商品库"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.76388888888889%",
+              "top": "12.625%",
+              "width": "86.45833333333333%",
+              "fontSize": 17,
+              "lines": [
+                "• 基础信息：product_id / 商品名 / 产品图 / 卖点结构化",
+                "• 卖点拆解：功能卖点 / 场景卖点 / 情绪卖点 / 信任卖点",
+                "• 资产示例：ACRONYM® 机能外套（防水 / 防风 / 透气 / 模块化）"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "19.375%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "1.3 提示词库"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.76388888888889%",
+              "top": "20.0625%",
+              "width": "86.45833333333333%",
+              "fontSize": 17,
+              "lines": [
+                "• 按场景分类：棚拍主图 / 细节特写 / 场景街拍 / 平铺图 / 多平台适配",
+                "• 结构模板：主体 + 场景 + 构图 + 风格 + 约束",
+                "• 版本管理：每次迭代留版，可追溯"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "35.958333333333336%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "2.1 任务类型矩阵"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.76388888888889%",
+              "top": "36.645833333333336%",
+              "width": "86.45833333333333%",
+              "fontSize": 17,
+              "lines": [
+                "• 基础档案：model_id / 角色名 / 三视图 / 外貌特征（年龄、人种、肤色、脸型、五官、发型发色）",
+                "• 绑定工作流：换装工作流 / 姿势迁移工作流 / 场景生成工作流",
+                "• 资产示例：女模特三视图（深棕 bob 头雀斑女 · 黑色机能风套装）"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "67.4375%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "4.1 人工审核标准"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.76388888888889%",
+              "top": "68.125%",
+              "width": "86.45833333333333%",
+              "fontSize": 17,
+              "lines": [
+                "• 人物一致性：脸型 / 发型 / 身材是否和资产库一致",
+                "• 服装准确性：拉链位置 / 口袋数量 / 面料纹理 / 版型",
+                "• 画面质量：无崩坏 / 无乱码文字 / 无水印",
+                "• 品牌调性：黑白灰机能风 / 无暖色调溢出"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "75.9375%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "4.3 迭代闭环"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.76388888888889%",
+              "top": "76.625%",
+              "width": "86.45833333333333%",
+              "fontSize": 17,
+              "lines": [
+                "• 人工审核 → 通过 → 保留版本",
+                "• 人工审核 → 不通过 → 调整提示词 → 重新生成 → 回到 03"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "26.458333333333332%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "1.4 过程链路"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "57.638888888888886%",
+              "top": "35.958333333333336%",
+              "width": "39.583333333333336%",
+              "fontSize": 22,
+              "lines": [
+                "2.2 提示词结构模板"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "44.479166666666664%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "2.3 过程链路"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "51.8125%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "3.1 模型选型依据（横向测评）"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "57.638888888888886%",
+              "top": "51.8125%",
+              "width": "39.583333333333336%",
+              "fontSize": 22,
+              "lines": [
+                "3.2 工具与工作流分配"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "56.666666666666664%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "3.3 执行链路"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "58.895833333333336%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "3.4 过程链路"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "57.638888888888886%",
+              "top": "67.4375%",
+              "width": "39.583333333333336%",
+              "fontSize": 22,
+              "lines": [
+                "4.2 局部微调 SOP"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "78.29166666666667%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "4.4 过程链路"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "86.875%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "5.1 平台适配矩阵"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "91.72916666666667%",
+              "width": "86.94444444444444%",
+              "fontSize": 22,
+              "lines": [
+                "5.2 过程链路"
+              ],
+              "fontWeight": 700,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "10.277777777777777%",
+              "top": "57.4375%",
+              "width": "86.94444444444444%",
+              "fontSize": 17,
+              "lines": [
+                "取任务（飞书表格）→ 上传参考图 → 提交生图 API → 轮询结果 → 下载图片 → 回填飞书"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "58.125%",
+              "top": "68.125%",
+              "width": "39.09722222222222%",
+              "fontSize": 17,
+              "lines": [
+                "• 袖口 / 下摆 / 孔洞错误 → GPT-image 2.5 局部编辑",
+                "• 脸型偏差 → 重新喂三视图参考图",
+                "• 场景饱和度太高 → 降低饱和度提示词",
+                "• 姿态不对 → 姿势迁移工作流"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            },
+            {
+              "left": "8.61111111111111%",
+              "top": "96.04166666666667%",
+              "width": "88.61111111111111%",
+              "fontSize": 20,
+              "lines": [
+                "AI 负责发散与生成，人工负责筛选、统一与品控 —— 把高频试错纳入可控节奏，让产能、一致性与商业质量同时成立。"
+              ],
+              "fontWeight": 400,
+              "lineHeight": 1.5
+            }
+          ]
+        },
+        {
+          "type": "composition",
+          "className": "project02-store",
+          "aspectRatio": "5 / 38.5",
+          "layers": [
+            {
+              "src": "assets/project02/6.独立站展示/独立站框架.svg",
+              "left": "0%",
+              "top": "0%",
+              "width": "100%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project02/6.独立站展示/首图.png",
+              "left": "20.833333%",
+              "top": "2.453102%",
+              "width": "73.611111%",
+              "zIndex": 3
+            },
+            {
+              "src": "assets/project02/6.独立站展示/男模背景.png",
+              "left": "-5.208333%",
+              "top": "10.010823%",
+              "width": "36.805556%",
+              "zIndex": 1
+            },
+            {
+              "src": "assets/project02/6.独立站展示/男模1.jpg",
+              "left": "4.722222%",
+              "top": "14.159452%",
+              "width": "24.305556%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/男模2.jpg",
+              "left": "29.513889%",
+              "top": "14.159452%",
+              "width": "40.416667%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/男模3.jpg",
+              "left": "70.486111%",
+              "top": "14.159452%",
+              "width": "24.305556%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/女模1.jpg",
+              "left": "4.722222%",
+              "top": "18.894300%",
+              "width": "24.305556%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/女模2.jpg",
+              "left": "29.513889%",
+              "top": "18.894300%",
+              "width": "40.416667%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/女模3.jpg",
+              "left": "70.486111%",
+              "top": "18.894300%",
+              "width": "24.305556%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/服装1.jpg",
+              "left": "6.597222%",
+              "top": "26.560245%",
+              "width": "33.333333%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/服装2.jpg",
+              "left": "36.111111%",
+              "top": "36.796537%",
+              "width": "24.305556%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/服装2-0.jpg",
+              "left": "60.416667%",
+              "top": "37.427850%",
+              "width": "32.638889%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/女装1.jpg",
+              "left": "13.194444%",
+              "top": "44.642857%",
+              "width": "22.222222%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/女装1-0.jpg",
+              "left": "34.722222%",
+              "top": "45.229076%",
+              "width": "34.722222%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/女装2.jpg",
+              "left": "58.333333%",
+              "top": "56.096681%",
+              "width": "29.861111%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/细节4.jpg",
+              "left": "42.013889%",
+              "top": "69.173882%",
+              "width": "23.263889%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/细节5.jpg",
+              "left": "67.013889%",
+              "top": "69.173882%",
+              "width": "23.263889%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/细节7.jpg",
+              "left": "16.319444%",
+              "top": "72.781385%",
+              "width": "23.263889%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/细节6.jpg",
+              "left": "42.013889%",
+              "top": "72.781385%",
+              "width": "23.263889%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/细节2.jpg",
+              "left": "16.319444%",
+              "top": "76.388889%",
+              "width": "23.263889%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/细节3.jpg",
+              "left": "67.013889%",
+              "top": "76.388889%",
+              "width": "23.263889%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/细节1.jpg",
+              "left": "42.013889%",
+              "top": "78.192641%",
+              "width": "23.263889%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/6.独立站展示/尾图.jpg",
+              "left": "5.555556%",
+              "top": "82.296176%",
+              "width": "88.888889%",
+              "zIndex": 2
+            }
+          ],
+          "textLayers": [
+            {
+              "left": "6.388889%",
+              "top": "8.748196%",
+              "width": "25.000000%",
+              "fontSize": 18,
+              "lines": [
+                "As reliable narratives collapse, the ability",
+                "to remain dynamic and autonomous is",
+                "increasingly coveted. We strip the useful",
+                "aspects of military industrial typologies",
+                "and place them at your service — free of",
+                "preconceived references. Form follows",
+                "function. Nothing else is decoration."
+              ],
+              "fontWeight": 400,
+              "align": "left",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "4.722222%",
+              "top": "13.834776%",
+              "width": "45.138889%",
+              "fontSize": 25,
+              "lines": [
+                "THE FIGURES / 人物定义"
+              ],
+              "fontWeight": 400,
+              "align": "left",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "37.152778%",
+              "top": "32.557720%",
+              "width": "23.611111%",
+              "fontSize": 17,
+              "lines": [
+                "OUTERWEAR"
+              ],
+              "fontWeight": 400,
+              "align": "left",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "37.152778%",
+              "top": "32.828283%",
+              "width": "27.083333%",
+              "fontSize": 25,
+              "lines": [
+                "J1W-E"
+              ],
+              "fontWeight": 700,
+              "align": "left",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "37.152778%",
+              "top": "33.143939%",
+              "width": "27.777778%",
+              "fontSize": 17,
+              "lines": [
+                "Encapsulated Nylon Interops Jacket",
+                "Gen. 1.1",
+                "Lightshell (WR)",
+                "Price: 1,931.00 EUR",
+                "Made in China"
+              ],
+              "fontWeight": 400,
+              "align": "left",
+              "color": "#111",
+              "lineHeight": 1.32,
+              "zIndex": 4
+            },
+            {
+              "left": "20.833333%",
+              "top": "39.051227%",
+              "width": "13.888889%",
+              "fontSize": 17,
+              "lines": [
+                "OUTERWEAR"
+              ],
+              "fontWeight": 400,
+              "align": "right",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "20.833333%",
+              "top": "39.321789%",
+              "width": "13.888889%",
+              "fontSize": 25,
+              "lines": [
+                "CP5-GT"
+              ],
+              "fontWeight": 700,
+              "align": "right",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "18.055556%",
+              "top": "39.637446%",
+              "width": "16.666667%",
+              "fontSize": 17,
+              "lines": [
+                "3L GORE-TEX® Pro Cape",
+                "Gen. 1",
+                "Hardshell (WP)",
+                "Price: 889.00 EUR",
+                "Made in China"
+              ],
+              "fontWeight": 400,
+              "align": "right",
+              "color": "#111",
+              "lineHeight": 1.32,
+              "zIndex": 4
+            },
+            {
+              "left": "69.444444%",
+              "top": "48.250361%",
+              "width": "20.833333%",
+              "fontSize": 17,
+              "lines": [
+                "DRESS"
+              ],
+              "fontWeight": 400,
+              "align": "left",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "69.444444%",
+              "top": "48.520924%",
+              "width": "20.833333%",
+              "fontSize": 25,
+              "lines": [
+                "SAC-D6012"
+              ],
+              "fontWeight": 700,
+              "align": "left",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "69.444444%",
+              "top": "48.836580%",
+              "width": "22.222222%",
+              "fontSize": 17,
+              "lines": [
+                "sacai / ACRONYM® Dress",
+                "Gen. 1",
+                "Hardshell (NA)",
+                "Price: 1,806.00 EUR",
+                "Made in Japan"
+              ],
+              "fontWeight": 400,
+              "align": "left",
+              "color": "#111",
+              "lineHeight": 1.32,
+              "zIndex": 4
+            },
+            {
+              "left": "35.416667%",
+              "top": "61.417749%",
+              "width": "20.833333%",
+              "fontSize": 17,
+              "lines": [
+                "OUTERWEAR"
+              ],
+              "fontWeight": 400,
+              "align": "right",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "35.416667%",
+              "top": "61.688312%",
+              "width": "20.833333%",
+              "fontSize": 25,
+              "lines": [
+                "J91U-WSDB"
+              ],
+              "fontWeight": 700,
+              "align": "right",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "35.416667%",
+              "top": "62.003968%",
+              "width": "20.833333%",
+              "fontSize": 17,
+              "lines": [
+                "Windstopper® Modular Jacket",
+                "Gen. 1",
+                "Lightshell (WR)",
+                "Sold out · Limited-time draw",
+                "Made in China"
+              ],
+              "fontWeight": 400,
+              "align": "right",
+              "color": "#111",
+              "lineHeight": 1.32,
+              "zIndex": 4
+            },
+            {
+              "left": "6.944444%",
+              "top": "70.346320%",
+              "width": "24.305556%",
+              "fontSize": 46,
+              "lines": [
+                "ACRONYM®"
+              ],
+              "fontWeight": 700,
+              "align": "left",
+              "color": "#111",
+              "lineHeight": 1.2,
+              "zIndex": 4
+            },
+            {
+              "left": "69.444444%",
+              "top": "78.192641%",
+              "width": "23.611111%",
+              "fontSize": 23,
+              "lines": [
+                "SHELL SYSTEM",
+                "J110TS-GT　AlphaGreen"
+              ],
+              "fontWeight": 700,
+              "align": "left",
+              "lineHeight": 1.4,
+              "zIndex": 4
+            }
+          ]
+        },
+        {
+          "type": "video",
+          "src": "assets/project02/TVC.mov",
+          "label": "TVC制作视频",
+          "className": "tvc-lead-video"
+        },
+        {
+          "type": "composition",
+          "className": "project02-tvc-sop",
+          "aspectRatio": "1440 / 3100",
+          "layers": [
+            {
+              "src": "assets/project02/7.TVC制作SOP/TVC-SOP框架.svg",
+              "left": "0.0%",
+              "top": "0.0%",
+              "width": "100.0%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/7.TVC制作SOP/参考_numero_03.0s_建筑人物登场 1.jpg",
+              "left": "23.958333333333332%",
+              "top": "10.419354838709678%",
+              "width": "17.98611111111111%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/7.TVC制作SOP/参考_numero_11.6s_蓝天腾空 1.jpg",
+              "left": "43.19444444444444%",
+              "top": "10.419354838709678%",
+              "width": "17.98611111111111%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/7.TVC制作SOP/参考_双手压住端头_团身起始_0.33秒.png",
+              "left": "62.36111111111111%",
+              "top": "10.419354838709678%",
+              "width": "17.98611111111111%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/7.TVC制作SOP/分镜表.jpg",
+              "left": "23.75%",
+              "top": "22.70967741935484%",
+              "width": "57.22222222222222%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/7.TVC制作SOP/服装1-反光.png",
+              "left": "32.638888888888886%",
+              "top": "58.25806451612903%",
+              "width": "12.98611111111111%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/7.TVC制作SOP/服装2-廓形服装.png",
+              "left": "47.291666666666664%",
+              "top": "58.25806451612903%",
+              "width": "15.277777777777777%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/7.TVC制作SOP/服装3-无袖.png",
+              "left": "64.30555555555556%",
+              "top": "58.25806451612903%",
+              "width": "5.763888888888888%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/7.TVC制作SOP/logo-master.jpg",
+              "left": "71.80555555555556%",
+              "top": "58.25806451612903%",
+              "width": "15.347222222222221%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/7.TVC制作SOP/minimax工作流.jpg",
+              "left": "22.22222222222222%",
+              "top": "66.61290322580645%",
+              "width": "74.23611111111111%",
+              "zIndex": 2
+            },
+            {
+              "src": "assets/project02/7.TVC制作SOP/seedance截屏.jpg",
+              "left": "22.22222222222222%",
+              "top": "79.87096774193549%",
+              "width": "28.88888888888889%",
+              "zIndex": 2
+            }
+          ],
+          "textLayers": [
+            {
+              "left": "6.25%",
+              "top": "0.9032258064516129%",
+              "width": "69.44444444444444%",
+              "fontSize": 64,
+              "lines": [
+                "TVC制作SOP"
+              ],
+              "fontWeight": 700,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "13.88888888888889%",
+              "top": "10.806451612903226%",
+              "width": "9.027777777777777%",
+              "fontSize": 26,
+              "lines": [
+                "参考片段"
+              ],
+              "fontWeight": 700,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "84.72222222222221%",
+              "top": "10.35483870967742%",
+              "width": "10.416666666666666%",
+              "fontSize": 25,
+              "lines": [
+                "参考点"
+              ],
+              "fontWeight": 700,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "82.29166666666667%",
+              "top": "11.838709677419354%",
+              "width": "12.5%",
+              "fontSize": 16,
+              "lines": [
+                "• 环境：混凝土建筑",
+                "• 动作：跑酷、翻越",
+                "• 镜头：俯拍/仰拍动势、",
+                "  建筑遮挡"
+              ],
+              "fontWeight": 400,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "25.416666666666664%",
+              "top": "16.06451612903226%",
+              "width": "65.97222222222221%",
+              "fontSize": 24,
+              "lines": [
+                "「穿过边界」"
+              ],
+              "fontWeight": 700,
+              "color": "white",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "25.416666666666664%",
+              "top": "17.419354838709676%",
+              "width": "68.05555555555556%",
+              "fontSize": 21,
+              "lines": [
+                "• 人物在穿过一个由建筑、光影和品牌共同构成的世界。",
+                "• 服装随着人物运动被看见；",
+                "• 品牌 Logo 不作为贴片出现，而是成为建筑的一部分。"
+              ],
+              "fontWeight": 400,
+              "color": "white",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "23.958333333333332%",
+              "top": "55.54838709677419%",
+              "width": "55.55555555555556%",
+              "fontSize": 25,
+              "lines": [
+                "提示词"
+              ],
+              "fontWeight": 700,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "23.958333333333332%",
+              "top": "56.935483870967744%",
+              "width": "62.5%",
+              "fontSize": 18,
+              "lines": [
+                "codex负责整合分镜、参考，形成具体描述"
+              ],
+              "fontWeight": 400,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "23.958333333333332%",
+              "top": "58.225806451612904%",
+              "width": "13.88888888888889%",
+              "fontSize": 25,
+              "lines": [
+                "品牌适配"
+              ],
+              "fontWeight": 700,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "24.305555555555554%",
+              "top": "59.354838709677416%",
+              "width": "10.416666666666666%",
+              "fontSize": 18,
+              "lines": [
+                "• 模特",
+                "• 服装",
+                "• logo"
+              ],
+              "fontWeight": 400,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "22.22222222222222%",
+              "top": "63.225806451612904%",
+              "width": "69.44444444444444%",
+              "fontSize": 32,
+              "lines": [
+                "根据镜头难度选择模型"
+              ],
+              "fontWeight": 700,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "22.22222222222222%",
+              "top": "64.93548387096774%",
+              "width": "69.44444444444444%",
+              "fontSize": 27,
+              "lines": [
+                "简单镜头采用Minimax开源模型"
+              ],
+              "fontWeight": 700,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "77.08333333333333%",
+              "top": "65.48387096774194%",
+              "width": "20.833333333333332%",
+              "fontSize": 20,
+              "lines": [
+                "Minimax开源工作流-图生视频"
+              ],
+              "fontWeight": 400,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "22.22222222222222%",
+              "top": "78.29032258064517%",
+              "width": "76.38888888888889%",
+              "fontSize": 27,
+              "lines": [
+                "复杂镜头采用Seedance全能参考图生视频"
+              ],
+              "fontWeight": 700,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "51.59722222222222%",
+              "top": "93.87096774193549%",
+              "width": "27.77777777777778%",
+              "fontSize": 23,
+              "lines": [
+                "Seedance全能参考"
+              ],
+              "fontWeight": 400,
+              "color": "#111",
+              "lineHeight": 1.4
+            },
+            {
+              "left": "54.513888888888886%",
+              "top": "80.3225806451613%",
+              "width": "38.19444444444444%",
+              "fontSize": 13,
+              "lines": [
+                "镜头、环境、剪辑节奏参考[风格参考]（建筑对镜头的遮挡感、穿插鞋子局部的剪辑也要参考到）。",
+                "人物撑在一个支点旋转的动作，参考[动作参考片段]（仅参考视频的动作）：人物在梁体端头前起",
+                "跳，肘部自然微屈，身体向前上方腾起，以双手支撑点为旋转轴，完成一次流畅、有力量感的横向腾",
+                "空旋转翻越。左手和右手几乎同时落在梁体最末端的顶面转角处。双手落点必须全部位于梁体自由端",
+                "端头，不能落在梁身中段，不能落在侧面，也不能一前一后分散到不同区域。黑色廓形服装在旋转中",
+                "展开，形成具有雕塑感的黑色几何轮廓；面料随惯性自然飘动，但不能遮挡双手和主要肢体动作。身",
+                "体越过梁体后逐渐展开，双手在旋转基本完成后才依次自然离开梁体端头。人物伸展双腿，调整身体",
+                "重心，平稳落地。环境要和视频1融合，首尾自然衔接。",
+                "人物为[模特图]，身穿衣服为[服装图]。",
+                "负面约束：单手支撑、只有一只手接触梁体、双手撑在梁体中间、双手撑在不同位置、手撑梁体侧",
+                "面、手掌悬空、虚假接触、手掌滑动、中途换手、提前松手、双手被服装遮挡、梁体端头不可见、梁",
+                "体无限延伸、新增栏杆、新增扶手、新增支撑物、人物漂浮、凭空旋转、动作僵硬、身体穿过梁体、",
+                "手掌穿模、肢体穿模、手指畸形、手指粘连、多余手指、多余手臂、关节反折、面部变化、人物身份",
+                "变化、发型变化、服装变形、服装颜色变化、建筑结构变化、字幕、文字、水印、镜头切换、画面闪",
+                "烁、背景抖动。"
+              ],
+              "fontWeight": 400,
+              "color": "#111",
+              "lineHeight": 1.4
+            }
+          ]
+        },
+        {
+          "type": "composition",
+          "className": "project02-review",
+          "aspectRatio": "4 / 3",
+          "layers": [
+            {
+              "src": "assets/project02/8.结果验证与总结/项目复盘.svg",
+              "left": "0%",
+              "top": "0%",
+              "width": "100%"
+            }
+          ]
+        }
+      ],
+      "autoplay": false,
+      "coverStyle": "website-card"
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": "",
+      "image": ""
+    },
+    {
+      "title": "故事解读类长内容",
+      "sidebarTitle": "自媒体代表作",
+      "year": "2026",
+      "image": "assets/自媒体/四叠半上.jpg",
+      "externalUrl": "https://www.bilibili.com/video/BV19DKJ6hEM2/?spm_id_from=333.1387.homepage.video_card.click",
+      "coverStyle": "centered-cover"
+    },
+    {
+      "title": "Gallery",
+      "sidebarTitle": "画作",
+      "year": "2023 - 2026",
+      "image": "assets/Gallery/gallery-cover.gif",
+      "coverStyle": "centered-cover",
+      "detailSections": [
+        {
+          "type": "art-gallery",
+          "items": [
+            {
+              "src": "assets/Gallery/351778311927_.pic_hd.png",
+              "title": "",
+              "width": 3000,
+              "height": 3613,
+              "align": "33%",
+              "tilt": 7
+            },
+            {
+              "src": "assets/Gallery/361778332792_.pic.jpg",
+              "title": "",
+              "width": 1080,
+              "height": 1440,
+              "align": "7%",
+              "tilt": -9
+            },
+            {
+              "src": "assets/Gallery/Screenshot_20261108_173734.jpg",
+              "title": "",
+              "width": 1012,
+              "height": 1349,
+              "align": "35%",
+              "tilt": 6
+            },
+            {
+              "src": "assets/Gallery/mmexport1693652100097_edit_1241693462382838.png",
+              "title": "",
+              "width": 4138,
+              "height": 2473,
+              "align": "15%",
+              "tilt": -7
+            },
+            {
+              "src": "assets/Gallery/三体3：云天明的童话1.png",
+              "title": "三体3：云天明的童话1",
+              "width": 1782,
+              "height": 3168,
+              "align": "6%",
+              "tilt": 8
+            },
+            {
+              "src": "assets/Gallery/三体3：云天明的童话2.png",
+              "title": "三体3：云天明的童话2",
+              "width": 1782,
+              "height": 3168,
+              "align": "36%",
+              "tilt": -6
+            },
+            {
+              "src": "assets/Gallery/记得时常向饼熊行注目礼.png",
+              "title": "记得时常向饼熊行注目礼",
+              "width": 4000,
+              "height": 3000,
+              "align": "18%",
+              "tilt": 7
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
