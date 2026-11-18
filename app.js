@@ -79,6 +79,28 @@ function hasProjectTile(project) {
   return hasProjectDetail(project) || Boolean(project.externalUrl);
 }
 
+const warmedProjects = new WeakSet();
+function warmProjectImages(project) {
+  if (!project.detailSections || warmedProjects.has(project)) return;
+  warmedProjects.add(project);
+  const sources = new Set();
+  const collect = value => {
+    if (Array.isArray(value)) value.forEach(collect);
+    else if (value && typeof value === "object") Object.values(value).forEach(collect);
+    else if (typeof value === "string" && /\.(webp|png|jpe?g)(\?|$)/i.test(value)) sources.add(value);
+  };
+  collect(project.detailSections);
+  const queue = [...sources];
+  const next = () => {
+    const src = queue.shift();
+    if (!src) return;
+    const image = new Image();
+    image.onload = image.onerror = next;
+    image.src = src;
+  };
+  for (let i = 0; i < 3; i++) next();
+}
+
 function openProjectDestination(project) {
   if (project.externalUrl) {
     window.open(project.externalUrl, "_blank", "noopener,noreferrer");
@@ -96,6 +118,7 @@ function renderProjects(projects) {
     row.type = "button";
     row.addEventListener("click", () => openProjectDestination(project));
     row.dataset.projectIndex = projectIndex;
+    row.addEventListener("mouseenter", () => warmProjectImages(project), { once: true });
 
     const title = document.createElement("span");
     title.className = "project-title";
@@ -137,6 +160,7 @@ function renderGallery(projects) {
     const tile = document.createElement("button");
     tile.className = "tile";
     tile.dataset.projectIndex = projectIndex;
+    tile.addEventListener("mouseenter", () => warmProjectImages(project), { once: true });
     const name = document.createElement("span");
     name.className = "tile-project-name";
     name.textContent = project.title || "未命名项目";
@@ -363,6 +387,7 @@ function openProject(project, navigate = true) {
       video.playsInline = true;
       video.preload = "metadata";
       video.autoplay = project.autoplay !== false;
+      if (!video.autoplay) video.preload = "none";
       video.loop = true;
       video.setAttribute("aria-label", section.label || "作品视频");
       const player = document.createElement("div");
@@ -470,6 +495,7 @@ function openProject(project, navigate = true) {
       image.decoding = "async";
       image.loading = "lazy";
       loadPortfolioImage(image, section.src);
+      if (!detailContent.children.length) { image.loading = "eager"; image.fetchPriority = "high"; }
       image.alt = "";
       detailContent.append(image);
       return;
