@@ -153,7 +153,7 @@ function renderGallery(projects) {
       video.loop = true;
       video.muted = true;
       video.playsInline = true;
-      video.preload = "auto";
+      video.preload = "metadata";
       video.setAttribute("aria-hidden", "true");
       tile.append(video);
       const frame = document.createElement("img");
@@ -190,6 +190,7 @@ function createArtGallery(section) {
     const figure = document.createElement("figure");
     figure.className = "art-gallery-card";
     const image = document.createElement("img");
+      image.decoding = "async";
     image.src = item.src;
     image.alt = item.title || `画廊作品 ${index + 1}`;
     image.decoding = "async";
@@ -340,7 +341,7 @@ function openProject(project, navigate = true) {
       video.src = section.src;
       video.controls = false;
       video.playsInline = true;
-      video.preload = "auto";
+      video.preload = "metadata";
       video.autoplay = project.autoplay !== false;
       video.loop = true;
       video.setAttribute("aria-label", section.label || "作品视频");
@@ -446,6 +447,8 @@ function openProject(project, navigate = true) {
 
     if (section.type === "image") {
       const image = document.createElement("img");
+      image.decoding = "async";
+      image.loading = "lazy";
       image.src = section.src;
       image.alt = "";
       detailContent.append(image);
@@ -469,6 +472,7 @@ function openProject(project, navigate = true) {
 
       (section.layers || []).forEach((layer) => {
         const image = document.createElement("img");
+      image.decoding = "async";
         image.className = `composition-layer${layer.shape ? ` composition-layer--${layer.shape}` : ""}`;
         image.src = layer.src;
         image.alt = "";
@@ -518,6 +522,7 @@ function openProject(project, navigate = true) {
 
       (section.copyImages || []).forEach((copy) => {
         const image = document.createElement("img");
+      image.decoding = "async";
         image.className = `concept-copy concept-copy--${copy.position}`;
         image.src = copy.src;
         image.alt = "";
