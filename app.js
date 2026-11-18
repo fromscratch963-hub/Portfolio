@@ -64,17 +64,29 @@ function renderProfile(profile) {
 }
 
 function hasProjectDetail(project) {
-  return (Array.isArray(project.detailSections) && project.detailSections.length > 0) || Boolean(project.externalUrl);
+  return Array.isArray(project.detailSections) && project.detailSections.length > 0;
+}
+
+function hasProjectTile(project) {
+  return hasProjectDetail(project) || Boolean(project.externalUrl);
+}
+
+function openProjectDestination(project) {
+  if (project.externalUrl) {
+    window.open(project.externalUrl, "_blank", "noopener,noreferrer");
+    return;
+  }
+  openProject(project);
 }
 
 function renderProjects(projects) {
   const list = document.querySelector("#project-list");
   projects.forEach((project, projectIndex) => {
-    if (!hasProjectDetail(project)) return;
+    if (!hasProjectTile(project)) return;
     const row = document.createElement("button");
     row.className = "project-row";
     row.type = "button";
-    row.addEventListener("click", () => openProject(project));
+    row.addEventListener("click", () => openProjectDestination(project));
     row.dataset.projectIndex = projectIndex;
 
     const title = document.createElement("span");
@@ -110,7 +122,7 @@ function renderProjects(projects) {
 
 function renderGallery(projects) {
   const gallery = document.querySelector("#gallery");
-  const items = projects.filter(hasProjectDetail);
+  const items = projects.filter(hasProjectTile);
 
   items.forEach((project) => {
     const projectIndex = projects.indexOf(project);
@@ -138,7 +150,7 @@ function renderGallery(projects) {
     }
     tile.type = "button";
     tile.setAttribute("aria-label", `打开${project.title || "未命名项目"}详情`);
-    tile.addEventListener("click", () => openProject(project));
+    tile.addEventListener("click", () => openProjectDestination(project));
     if (project.image && !["website-card", "centered-cover"].includes(project.coverStyle)) {
       tile.style.backgroundImage = `url(${JSON.stringify(project.image)})`;
       tile.style.backgroundSize = "cover";
