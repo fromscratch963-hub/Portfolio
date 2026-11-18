@@ -11,16 +11,16 @@
       "title": "文创品牌IP角色定制",
       "sidebarTitle": "IP：岩页页",
       "year": "2026",
-      "image": "assets/project01/1.KV.jpg",
+      "image": "assets/project01/1.KV.web.webp",
       "detailSections": [
         {
           "type": "image",
-          "src": "assets/project01/1.KV.jpg"
+          "src": "assets/project01/1.KV.web.webp"
         },
         {
           "type": "concept",
-          "background": "assets/project01/2.核心概念/2.核心概念.jpg",
-          "dividerImage": "assets/project01/2-3.IP分割线.lossless.webp",
+          "background": "assets/project01/2.核心概念/2.核心概念.web.webp",
+          "dividerImage": "assets/project01/2-3.IP分割线.lossless.web.webp",
           "copyImages": [
             {
               "src": "assets/project01/2.核心概念/文案1.svg",
@@ -38,15 +38,15 @@
         },
         {
           "type": "image",
-          "src": "assets/project01/3.IP战略定位.jpg"
+          "src": "assets/project01/3.IP战略定位.web.webp"
         },
         {
           "type": "image",
-          "src": "assets/project01/4.情绪板.jpg"
+          "src": "assets/project01/4.情绪板.web.webp"
         },
         {
           "type": "composition",
-          "background": "assets/project01/5.草图深化/草图深化背景.jpg",
+          "background": "assets/project01/5.草图深化/草图深化背景.web.webp",
           "layers": [
             {
               "src": "assets/project01/5.草图深化/文案1.svg",
@@ -70,7 +70,7 @@
               "zIndex": 2
             },
             {
-              "src": "assets/project01/5.草图深化/初稿.lossless.webp",
+              "src": "assets/project01/5.草图深化/初稿.lossless.web.webp",
               "left": "20.5%",
               "top": "11%",
               "width": "15.4%",
@@ -84,7 +84,7 @@
               "zIndex": 2
             },
             {
-              "src": "assets/project01/5.草图深化/侧面立像 1.lossless.webp",
+              "src": "assets/project01/5.草图深化/侧面立像 1.lossless.web.webp",
               "left": "31.9%",
               "top": "17%",
               "width": "38%",
@@ -112,7 +112,7 @@
               "zIndex": 4
             },
             {
-              "src": "assets/project01/5.草图深化/终稿.lossless.webp",
+              "src": "assets/project01/5.草图深化/终稿.lossless.web.webp",
               "left": "73.5%",
               "top": "46.3%",
               "width": "13.2%",
@@ -140,14 +140,14 @@
               "zIndex": 3
             },
             {
-              "src": "assets/project01/5.草图深化/三视图.lossless.webp",
+              "src": "assets/project01/5.草图深化/三视图.lossless.web.webp",
               "left": "27.8%",
               "top": "69.8%",
               "width": "46.3%",
               "zIndex": 3
             },
             {
-              "src": "assets/project01/5.草图深化/档案扣.lossless.webp",
+              "src": "assets/project01/5.草图深化/档案扣.lossless.web.webp",
               "left": "39.16667%",
               "top": "2.61805%",
               "width": "60.76389%",
@@ -157,17 +157,17 @@
         },
         {
           "type": "composition",
-          "background": "assets/project01/6.1羊毛毡/背景.jpg?v=1794894971204930666",
+          "background": "assets/project01/6.1羊毛毡/背景.web.webp?v=1794894971204930666",
           "layers": [
             {
-              "src": "assets/project01/6.1羊毛毡/Material Theme.lossless.webp",
+              "src": "assets/project01/6.1羊毛毡/Material Theme.lossless.web.webp",
               "left": "13.7500%",
               "top": "10.5605%",
               "width": "20.4167%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01/6.1羊毛毡/WoolFelt.lossless.webp",
+              "src": "assets/project01/6.1羊毛毡/WoolFelt.lossless.web.webp",
               "left": "12.5694%",
               "top": "11.2091%",
               "width": "23.4028%",
@@ -181,7 +181,7 @@
               "zIndex": 2
             },
             {
-              "src": "assets/project01/6.1羊毛毡/头像.lossless.webp",
+              "src": "assets/project01/6.1羊毛毡/头像.lossless.web.webp",
               "left": "47.0139%",
               "top": "5.7602%",
               "width": "45.5556%",
@@ -195,7 +195,7 @@
               "zIndex": 3
             },
             {
-              "src": "assets/project01/6.1羊毛毡/黄铜钉.lossless.webp",
+              "src": "assets/project01/6.1羊毛毡/黄铜钉.lossless.web.webp",
               "zIndex": 7,
               "left": "27.5000%",
               "top": "24.2346%",
@@ -205,17 +205,17 @@
         },
         {
           "type": "composition",
-          "background": "assets/project01/6.2针织/背景.jpg",
+          "background": "assets/project01/6.2针织/背景.web.webp",
           "layers": [
             {
-              "src": "assets/project01/6.2针织/Material Theme.lossless.webp",
+              "src": "assets/project01/6.2针织/Material Theme.lossless.web.webp",
               "left": "13.95833%",
               "top": "10.63488%",
               "width": "20.41667%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01/6.2针织/标题.lossless.webp",
+              "src": "assets/project01/6.2针织/标题.lossless.web.webp",
               "left": "9.51389%",
               "top": "12.32253%",
               "width": "30.00000%",
@@ -229,7 +229,7 @@
               "zIndex": 2
             },
             {
-              "src": "assets/project01/6.2针织/头像.lossless.webp",
+              "src": "assets/project01/6.2针织/头像.lossless.web.webp",
               "left": "45.76389%",
               "top": "6.16126%",
               "width": "42.70833%",
@@ -243,14 +243,14 @@
               "zIndex": 3
             },
             {
-              "src": "assets/project01/6.2针织/media.lossless.webp",
+              "src": "assets/project01/6.2针织/media.lossless.web.webp",
               "left": "8.12500%",
               "top": "26.54701%",
               "width": "82.08333%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01/6.2针织/黄铜钉.lossless.webp",
+              "src": "assets/project01/6.2针织/黄铜钉.lossless.web.webp",
               "left": "38.95833%",
               "top": "24.99330%",
               "width": "16.45833%",
@@ -263,63 +263,63 @@
           "background": "assets/project01/7.物料延展/画布.svg",
           "layers": [
             {
-              "src": "assets/project01/7.物料延展/标牌.lossless.webp",
+              "src": "assets/project01/7.物料延展/标牌.lossless.web.webp",
               "left": "3.958333%",
               "top": "-0.286807%",
               "width": "28.611111%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01/7.物料延展/场景1.jpg",
+              "src": "assets/project01/7.物料延展/场景1.web.webp",
               "left": "0.000000%",
               "top": "17.144678%",
               "width": "50.000000%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01/7.物料延展/场景2.jpg",
+              "src": "assets/project01/7.物料延展/场景2.web.webp",
               "left": "50.000000%",
               "top": "17.144678%",
               "width": "50.000000%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01/7.物料延展/手机壳1.lossless.webp",
+              "src": "assets/project01/7.物料延展/手机壳1.lossless.web.webp",
               "left": "22.847222%",
               "top": "49.776928%",
               "width": "23.541667%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01/7.物料延展/手机壳2.lossless.webp",
+              "src": "assets/project01/7.物料延展/手机壳2.lossless.web.webp",
               "left": "53.819444%",
               "top": "49.776928%",
               "width": "23.541667%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01/7.物料延展/场景3.jpg",
+              "src": "assets/project01/7.物料延展/场景3.web.webp",
               "left": "0.000000%",
               "top": "69.152326%",
               "width": "50.000000%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01/7.物料延展/发夹1.lossless.webp",
+              "src": "assets/project01/7.物料延展/发夹1.lossless.web.webp",
               "left": "62.91667%",
               "top": "70.49076%",
               "width": "28.81944%",
               "zIndex": 3
             },
             {
-              "src": "assets/project01/7.物料延展/发夹2.lossless.webp",
+              "src": "assets/project01/7.物料延展/发夹2.lossless.web.webp",
               "left": "63.61111%",
               "top": "90.47164%",
               "width": "28.47222%",
               "zIndex": 3
             },
             {
-              "src": "assets/project01/7.物料延展/发夹3.lossless.webp",
+              "src": "assets/project01/7.物料延展/发夹3.lossless.web.webp",
               "left": "61.11111%",
               "top": "79.63671%",
               "width": "30.55556%",
@@ -332,21 +332,21 @@
           "background": "assets/project01/8.活动延展/画布.svg",
           "layers": [
             {
-              "src": "assets/project01/8.活动延展/易拉宝.jpg",
+              "src": "assets/project01/8.活动延展/易拉宝.web.webp",
               "left": "0.000000%",
               "top": "36.423841%",
               "width": "50.000000%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01/8.活动延展/线下物料组合.jpg",
+              "src": "assets/project01/8.活动延展/线下物料组合.web.webp",
               "left": "50.000000%",
               "top": "36.423841%",
               "width": "50.000000%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01/8.活动延展/路牌2 1.lossless.webp",
+              "src": "assets/project01/8.活动延展/路牌2 1.lossless.web.webp",
               "left": "64.027778%",
               "top": "0.000000%",
               "width": "36.597222%",
@@ -366,28 +366,28 @@
               "zIndex": 2
             },
             {
-              "src": "assets/project01/9.拓展SOP/背景4.jpg",
+              "src": "assets/project01/9.拓展SOP/背景4.web.webp",
               "left": "2.569444%",
               "top": "26.528600%",
               "width": "11.875000%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01/9.拓展SOP/背景3.jpg",
+              "src": "assets/project01/9.拓展SOP/背景3.web.webp",
               "left": "15.000000%",
               "top": "26.528600%",
               "width": "14.305556%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01/9.拓展SOP/背景2.jpg",
+              "src": "assets/project01/9.拓展SOP/背景2.web.webp",
               "left": "15.000000%",
               "top": "42.011834%",
               "width": "14.513889%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01/9.拓展SOP/背景1.jpg",
+              "src": "assets/project01/9.拓展SOP/背景1.web.webp",
               "left": "29.861111%",
               "top": "26.528600%",
               "width": "11.805556%",
@@ -401,7 +401,7 @@
               "zIndex": 2
             },
             {
-              "src": "assets/project01/9.拓展SOP/主体.jpg",
+              "src": "assets/project01/9.拓展SOP/主体.web.webp",
               "left": "2.569444%",
               "top": "53.550296%",
               "width": "39.097222%",
@@ -415,7 +415,7 @@
               "zIndex": 2
             },
             {
-              "src": "assets/project01/9.拓展SOP/流程.jpg",
+              "src": "assets/project01/9.拓展SOP/流程.web.webp",
               "left": "42.847222%",
               "top": "26.528600%",
               "width": "54.583333%",
@@ -446,7 +446,7 @@
         },
         {
           "type": "image",
-          "src": "assets/project01/10.尾页.jpg"
+          "src": "assets/project01/10.尾页.web.webp"
         }
       ]
     },
@@ -458,7 +458,7 @@
       "detailSections": [
         {
           "type": "video",
-          "src": "assets/project01/1111清晰度优化.mov",
+          "src": "assets/project01/1111清晰度优化.web.mp4",
           "label": "1111清晰度优化"
         },
         {
@@ -466,21 +466,21 @@
           "aspectRatio": "1440 / 6878",
           "layers": [
             {
-              "src": "assets/project01-02/墙面.jpg",
+              "src": "assets/project01-02/墙面.web.webp",
               "left": "0.00000%",
               "top": "0.00000%",
               "width": "100.00000%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/定格电影截图.jpg",
+              "src": "assets/project01-02/定格电影截图.web.webp",
               "left": "0.00000%",
               "top": "1.45391%",
               "width": "55.48611%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/钉子.lossless.webp",
+              "src": "assets/project01-02/钉子.lossless.web.webp",
               "left": "15.13889%",
               "top": "0.08723%",
               "width": "13.40278%",
@@ -515,7 +515,7 @@
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/路牌.lossless.webp",
+              "src": "assets/project01-02/路牌.lossless.web.webp",
               "left": "50.83333%",
               "top": "11.22419%",
               "width": "48.12500%",
@@ -529,56 +529,56 @@
               "zIndex": 3
             },
             {
-              "src": "assets/project01-02/主图1.lossless.webp",
+              "src": "assets/project01-02/主图1.lossless.web.webp",
               "left": "35.00000%",
               "top": "23.05903%",
               "width": "64.79167%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/主图2.lossless.webp",
+              "src": "assets/project01-02/主图2.lossless.web.webp",
               "left": "33.33333%",
               "top": "30.99738%",
               "width": "65.97222%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/主图3.lossless.webp",
+              "src": "assets/project01-02/主图3.lossless.web.webp",
               "left": "27.91667%",
               "top": "38.17970%",
               "width": "71.31944%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/主图4.lossless.webp",
+              "src": "assets/project01-02/主图4.lossless.web.webp",
               "left": "28.19444%",
               "top": "44.57691%",
               "width": "70.76389%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/主图5.lossless.webp",
+              "src": "assets/project01-02/主图5.lossless.web.webp",
               "left": "34.44444%",
               "top": "50.97412%",
               "width": "64.93056%",
               "zIndex": 3
             },
             {
-              "src": "assets/project01-02/【优化材质提示词示例】.lossless.webp",
+              "src": "assets/project01-02/【优化材质提示词示例】.lossless.web.webp",
               "left": "5.13889%",
               "top": "32.10236%",
               "width": "20.00000%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/【基于场景主图扩分镜提示词示例】.lossless.webp",
+              "src": "assets/project01-02/【基于场景主图扩分镜提示词示例】.lossless.web.webp",
               "left": "5.13889%",
               "top": "46.14714%",
               "width": "20.27778%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/背面头像.lossless.webp",
+              "src": "assets/project01-02/背面头像.lossless.web.webp",
               "left": "55.55556%",
               "top": "61.32597%",
               "width": "48.12500%",
@@ -599,133 +599,133 @@
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/分镜背景.jpg",
+              "src": "assets/project01-02/分镜背景.web.webp",
               "left": "0.00000%",
               "top": "67.63594%",
               "width": "100.00000%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/01-A-桌脚特写 1.jpg",
+              "src": "assets/project01-02/01-A-桌脚特写 1.web.webp",
               "left": "4.16667%",
               "top": "67.63594%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/01-B-纸团掉落 1.jpg",
+              "src": "assets/project01-02/01-B-纸团掉落 1.web.webp",
               "left": "27.43056%",
               "top": "67.63594%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/02-挠头 1.jpg",
+              "src": "assets/project01-02/02-挠头 1.web.webp",
               "left": "50.69444%",
               "top": "67.63594%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/03-桌面茶壶 1.jpg",
+              "src": "assets/project01-02/03-桌面茶壶 1.web.webp",
               "left": "73.95833%",
               "top": "67.63594%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/06-橱窗空镜 1.jpg",
+              "src": "assets/project01-02/06-橱窗空镜 1.web.webp",
               "left": "4.16667%",
               "top": "70.45653%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/07-橱窗人物虚化 1.jpg",
+              "src": "assets/project01-02/07-橱窗人物虚化 1.web.webp",
               "left": "27.43056%",
               "top": "70.45653%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/09-海滩仰卧 1.jpg",
+              "src": "assets/project01-02/09-海滩仰卧 1.web.webp",
               "left": "4.16667%",
               "top": "73.27712%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/10-A-仰卧近景 1.jpg",
+              "src": "assets/project01-02/10-A-仰卧近景 1.web.webp",
               "left": "27.43056%",
               "top": "73.27712%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/10-B-仰卧想起 1.jpg",
+              "src": "assets/project01-02/10-B-仰卧想起 1.web.webp",
               "left": "50.69444%",
               "top": "73.27712%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/13-海滩本子特写 1.jpg",
+              "src": "assets/project01-02/13-海滩本子特写 1.web.webp",
               "left": "73.95833%",
               "top": "73.27712%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/14-灵感石特写 1.jpg",
+              "src": "assets/project01-02/14-灵感石特写 1.web.webp",
               "left": "4.16667%",
               "top": "76.09770%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/14-0 1.jpg",
+              "src": "assets/project01-02/14-0 1.web.webp",
               "left": "27.43056%",
               "top": "76.09770%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/15-坐铁盒靠近 1.jpg",
+              "src": "assets/project01-02/15-坐铁盒靠近 1.web.webp",
               "left": "50.69444%",
               "top": "76.09770%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/17-拾起灵感石特写 1.jpg",
+              "src": "assets/project01-02/17-拾起灵感石特写 1.web.webp",
               "left": "73.95833%",
               "top": "76.09770%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/18-拾起纸团特写 1.jpg",
+              "src": "assets/project01-02/18-拾起纸团特写 1.web.webp",
               "left": "4.16667%",
               "top": "78.91829%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/20-打开纸团 1.jpg",
+              "src": "assets/project01-02/20-打开纸团 1.web.webp",
               "left": "27.43056%",
               "top": "78.91829%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/22-B-刚戳破 1.jpg",
+              "src": "assets/project01-02/22-B-刚戳破 1.web.webp",
               "left": "50.69444%",
               "top": "78.91829%",
               "width": "21.87500%",
               "zIndex": 2
             },
             {
-              "src": "assets/project01-02/23C-大洞 1.jpg",
+              "src": "assets/project01-02/23C-大洞 1.web.webp",
               "left": "73.95833%",
               "top": "78.91829%",
               "width": "21.87500%",
@@ -746,42 +746,42 @@
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/01纸团掉落.gif",
+              "src": "assets/project01-02/01纸团掉落.web.webp",
               "left": "3.88889%",
               "top": "86.74033%",
               "width": "29.72222%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/03关灯.gif",
+              "src": "assets/project01-02/03关灯.web.webp",
               "left": "35.13889%",
               "top": "86.74033%",
               "width": "29.72222%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/20结尾.gif",
+              "src": "assets/project01-02/20结尾.web.webp",
               "left": "66.38889%",
               "top": "86.74033%",
               "width": "29.72222%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/09海滩.gif",
+              "src": "assets/project01-02/09海滩.web.webp",
               "left": "3.88889%",
               "top": "90.54958%",
               "width": "29.72222%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/11海滩.gif",
+              "src": "assets/project01-02/11海滩.web.webp",
               "left": "35.13889%",
               "top": "90.54958%",
               "width": "29.72222%",
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/14铁盒.gif",
+              "src": "assets/project01-02/14铁盒.web.webp",
               "left": "66.38889%",
               "top": "90.54958%",
               "width": "29.72222%",
@@ -795,7 +795,7 @@
               "zIndex": 1
             },
             {
-              "src": "assets/project01-02/剪辑.lossless.webp",
+              "src": "assets/project01-02/剪辑.lossless.web.webp",
               "left": "2.91667%",
               "top": "96.30707%",
               "width": "25.00000%",
@@ -809,11 +809,11 @@
       "title": "外境电商AIGC自动化营销方案",
       "sidebarTitle": "外境电商AIGC自动化营销方案",
       "year": "2026",
-      "image": "assets/project02/1.封面.jpg",
+      "image": "assets/project02/1.封面.web.webp",
       "detailSections": [
         {
           "type": "image",
-          "src": "assets/project02/1.封面.jpg"
+          "src": "assets/project02/1.封面.web.webp"
         },
         {
           "type": "composition",
@@ -821,25 +821,25 @@
           "className": "project02-intro",
           "layers": [
             {
-              "src": "assets/project02/2.项目介绍/顶部标志.lossless.webp",
+              "src": "assets/project02/2.项目介绍/顶部标志.lossless.web.webp",
               "left": "40.625000%",
               "top": "8.333333%",
               "width": "18.750000%"
             },
             {
-              "src": "assets/project02/2.项目介绍/01.jpg",
+              "src": "assets/project02/2.项目介绍/01.web.webp",
               "left": "4.166667%",
               "top": "45.000000%",
               "width": "30.138889%"
             },
             {
-              "src": "assets/project02/2.项目介绍/02.jpg",
+              "src": "assets/project02/2.项目介绍/02.web.webp",
               "left": "35.000000%",
               "top": "45.000000%",
               "width": "30.138889%"
             },
             {
-              "src": "assets/project02/2.项目介绍/03.jpg",
+              "src": "assets/project02/2.项目介绍/03.web.webp",
               "left": "65.763889%",
               "top": "45.000000%",
               "width": "30.138889%"
@@ -1141,19 +1141,19 @@
           "aspectRatio": "1440 / 1080",
           "layers": [
             {
-              "src": "assets/project02/4.用户画像/image 347.jpg",
+              "src": "assets/project02/4.用户画像/image 347.web.webp",
               "left": "61.388889%",
               "top": "24.907407%",
               "width": "34.375000%"
             },
             {
-              "src": "assets/project02/4.用户画像/image 342.jpg",
+              "src": "assets/project02/4.用户画像/image 342.web.webp",
               "left": "61.388889%",
               "top": "45.092593%",
               "width": "34.375000%"
             },
             {
-              "src": "assets/project02/4.用户画像/image 343.jpg",
+              "src": "assets/project02/4.用户画像/image 343.web.webp",
               "left": "61.388889%",
               "top": "65.370370%",
               "width": "34.375000%"
@@ -1309,84 +1309,84 @@
               "zIndex": 1
             },
             {
-              "src": "assets/project02/5.自动化链路/男模头像.jpg",
+              "src": "assets/project02/5.自动化链路/男模头像.web.webp",
               "left": "10.277777777777777%",
               "top": "7.625%",
               "width": "10.11111111111111%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/男模特头像四视图.jpg",
+              "src": "assets/project02/5.自动化链路/男模特头像四视图.web.webp",
               "left": "20.777777777777782%",
               "top": "7.625%",
               "width": "10.11111111111111%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/男模全身.jpg",
+              "src": "assets/project02/5.自动化链路/男模全身.web.webp",
               "left": "31.27777777777778%",
               "top": "7.625%",
               "width": "18.200000000000003%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/女模头像.jpg",
+              "src": "assets/project02/5.自动化链路/女模头像.web.webp",
               "left": "53.522222222222226%",
               "top": "7.625%",
               "width": "10.188888888888888%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/女模头像四视图.jpg",
+              "src": "assets/project02/5.自动化链路/女模头像四视图.web.webp",
               "left": "64.10000000000001%",
               "top": "7.625%",
               "width": "10.188888888888888%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/女模全身.jpg",
+              "src": "assets/project02/5.自动化链路/女模全身.web.webp",
               "left": "74.67777777777779%",
               "top": "7.625%",
               "width": "18.200000000000003%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/服装.jpg",
+              "src": "assets/project02/5.自动化链路/服装.web.webp",
               "left": "10.277777777777777%",
               "top": "14.291666666666666%",
               "width": "12.083333333333332%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/任务类型.jpg",
+              "src": "assets/project02/5.自动化链路/任务类型.web.webp",
               "left": "10.277777777777777%",
               "top": "38.395833333333336%",
               "width": "36.711111111111116%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/提示词结构模板.jpg",
+              "src": "assets/project02/5.自动化链路/提示词结构模板.web.webp",
               "left": "57.638888888888886%",
               "top": "36.729166666666664%",
               "width": "36.711111111111116%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/模型选择依据.jpg",
+              "src": "assets/project02/5.自动化链路/模型选择依据.web.webp",
               "left": "10.277777777777777%",
               "top": "52.604166666666664%",
               "width": "39.333333333333336%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/模型分配.jpg",
+              "src": "assets/project02/5.自动化链路/模型分配.web.webp",
               "left": "57.638888888888886%",
               "top": "52.583333333333336%",
               "width": "29.25%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/5.自动化链路/平台适配.jpg",
+              "src": "assets/project02/5.自动化链路/平台适配.web.webp",
               "left": "10.277777777777777%",
               "top": "87.77083333333333%",
               "width": "39.333333333333336%",
@@ -1831,154 +1831,154 @@
               "zIndex": 1
             },
             {
-              "src": "assets/project02/6.独立站展示/首图.lossless.webp",
+              "src": "assets/project02/6.独立站展示/首图.lossless.web.webp",
               "left": "20.833333%",
               "top": "2.453102%",
               "width": "73.611111%",
               "zIndex": 3
             },
             {
-              "src": "assets/project02/6.独立站展示/男模背景.lossless.webp",
+              "src": "assets/project02/6.独立站展示/男模背景.lossless.web.webp",
               "left": "-5.208333%",
               "top": "10.010823%",
               "width": "36.805556%",
               "zIndex": 1
             },
             {
-              "src": "assets/project02/6.独立站展示/男模1.jpg",
+              "src": "assets/project02/6.独立站展示/男模1.web.webp",
               "left": "4.722222%",
               "top": "14.159452%",
               "width": "24.305556%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/男模2.jpg",
+              "src": "assets/project02/6.独立站展示/男模2.web.webp",
               "left": "29.513889%",
               "top": "14.159452%",
               "width": "40.416667%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/男模3.jpg",
+              "src": "assets/project02/6.独立站展示/男模3.web.webp",
               "left": "70.486111%",
               "top": "14.159452%",
               "width": "24.305556%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/女模1.jpg",
+              "src": "assets/project02/6.独立站展示/女模1.web.webp",
               "left": "4.722222%",
               "top": "18.894300%",
               "width": "24.305556%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/女模2.jpg",
+              "src": "assets/project02/6.独立站展示/女模2.web.webp",
               "left": "29.513889%",
               "top": "18.894300%",
               "width": "40.416667%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/女模3.jpg",
+              "src": "assets/project02/6.独立站展示/女模3.web.webp",
               "left": "70.486111%",
               "top": "18.894300%",
               "width": "24.305556%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/服装1.jpg",
+              "src": "assets/project02/6.独立站展示/服装1.web.webp",
               "left": "6.597222%",
               "top": "26.560245%",
               "width": "33.333333%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/服装2.jpg",
+              "src": "assets/project02/6.独立站展示/服装2.web.webp",
               "left": "36.111111%",
               "top": "36.796537%",
               "width": "24.305556%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/服装2-0.jpg",
+              "src": "assets/project02/6.独立站展示/服装2-0.web.webp",
               "left": "60.416667%",
               "top": "37.427850%",
               "width": "32.638889%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/女装1.jpg",
+              "src": "assets/project02/6.独立站展示/女装1.web.webp",
               "left": "13.194444%",
               "top": "44.642857%",
               "width": "22.222222%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/女装1-0.jpg",
+              "src": "assets/project02/6.独立站展示/女装1-0.web.webp",
               "left": "34.722222%",
               "top": "45.229076%",
               "width": "34.722222%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/女装2.jpg",
+              "src": "assets/project02/6.独立站展示/女装2.web.webp",
               "left": "58.333333%",
               "top": "56.096681%",
               "width": "29.861111%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/细节4.jpg",
+              "src": "assets/project02/6.独立站展示/细节4.web.webp",
               "left": "42.013889%",
               "top": "69.173882%",
               "width": "23.263889%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/细节5.jpg",
+              "src": "assets/project02/6.独立站展示/细节5.web.webp",
               "left": "67.013889%",
               "top": "69.173882%",
               "width": "23.263889%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/细节7.jpg",
+              "src": "assets/project02/6.独立站展示/细节7.web.webp",
               "left": "16.319444%",
               "top": "72.781385%",
               "width": "23.263889%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/细节6.jpg",
+              "src": "assets/project02/6.独立站展示/细节6.web.webp",
               "left": "42.013889%",
               "top": "72.781385%",
               "width": "23.263889%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/细节2.jpg",
+              "src": "assets/project02/6.独立站展示/细节2.web.webp",
               "left": "16.319444%",
               "top": "76.388889%",
               "width": "23.263889%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/细节3.jpg",
+              "src": "assets/project02/6.独立站展示/细节3.web.webp",
               "left": "67.013889%",
               "top": "76.388889%",
               "width": "23.263889%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/细节1.jpg",
+              "src": "assets/project02/6.独立站展示/细节1.web.webp",
               "left": "42.013889%",
               "top": "78.192641%",
               "width": "23.263889%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/6.独立站展示/尾图.jpg",
+              "src": "assets/project02/6.独立站展示/尾图.web.webp",
               "left": "5.555556%",
               "top": "82.296176%",
               "width": "88.888889%",
@@ -2236,7 +2236,7 @@
         },
         {
           "type": "video",
-          "src": "assets/project02/TVC.mov",
+          "src": "assets/project02/TVC.web.mp4",
           "label": "TVC制作视频",
           "className": "tvc-lead-video"
         },
@@ -2253,70 +2253,70 @@
               "zIndex": 2
             },
             {
-              "src": "assets/project02/7.TVC制作SOP/参考_numero_03.0s_建筑人物登场 1.jpg",
+              "src": "assets/project02/7.TVC制作SOP/参考_numero_03.0s_建筑人物登场 1.web.webp",
               "left": "23.958333333333332%",
               "top": "10.419354838709678%",
               "width": "17.98611111111111%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/7.TVC制作SOP/参考_numero_11.6s_蓝天腾空 1.jpg",
+              "src": "assets/project02/7.TVC制作SOP/参考_numero_11.6s_蓝天腾空 1.web.webp",
               "left": "43.19444444444444%",
               "top": "10.419354838709678%",
               "width": "17.98611111111111%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/7.TVC制作SOP/参考_双手压住端头_团身起始_0.33秒.lossless.webp",
+              "src": "assets/project02/7.TVC制作SOP/参考_双手压住端头_团身起始_0.33秒.lossless.web.webp",
               "left": "62.36111111111111%",
               "top": "10.419354838709678%",
               "width": "17.98611111111111%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/7.TVC制作SOP/分镜表.jpg",
+              "src": "assets/project02/7.TVC制作SOP/分镜表.web.webp",
               "left": "23.75%",
               "top": "22.70967741935484%",
               "width": "57.22222222222222%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/7.TVC制作SOP/服装1-反光.lossless.webp",
+              "src": "assets/project02/7.TVC制作SOP/服装1-反光.lossless.web.webp",
               "left": "32.638888888888886%",
               "top": "58.25806451612903%",
               "width": "12.98611111111111%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/7.TVC制作SOP/服装2-廓形服装.lossless.webp",
+              "src": "assets/project02/7.TVC制作SOP/服装2-廓形服装.lossless.web.webp",
               "left": "47.291666666666664%",
               "top": "58.25806451612903%",
               "width": "15.277777777777777%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/7.TVC制作SOP/服装3-无袖.lossless.webp",
+              "src": "assets/project02/7.TVC制作SOP/服装3-无袖.lossless.web.webp",
               "left": "64.30555555555556%",
               "top": "58.25806451612903%",
               "width": "5.763888888888888%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/7.TVC制作SOP/logo-master.jpg",
+              "src": "assets/project02/7.TVC制作SOP/logo-master.web.webp",
               "left": "71.80555555555556%",
               "top": "58.25806451612903%",
               "width": "15.347222222222221%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/7.TVC制作SOP/minimax工作流.jpg",
+              "src": "assets/project02/7.TVC制作SOP/minimax工作流.web.webp",
               "left": "22.22222222222222%",
               "top": "66.61290322580645%",
               "width": "74.23611111111111%",
               "zIndex": 2
             },
             {
-              "src": "assets/project02/7.TVC制作SOP/seedance截屏.jpg",
+              "src": "assets/project02/7.TVC制作SOP/seedance截屏.web.webp",
               "left": "22.22222222222222%",
               "top": "79.87096774193549%",
               "width": "28.88888888888889%",
@@ -2620,7 +2620,7 @@
       "title": "故事解读类长内容",
       "sidebarTitle": "自媒体代表作",
       "year": "2026",
-      "image": "assets/自媒体/四叠半上.jpg",
+      "image": "assets/自媒体/四叠半上.web.webp",
       "externalUrl": "https://www.bilibili.com/video/BV19DKJ6hEM2/?spm_id_from=333.1387.homepage.video_card.click",
       "coverStyle": "centered-cover"
     },
@@ -2628,14 +2628,14 @@
       "title": "Gallery",
       "sidebarTitle": "画作",
       "year": "2023 - 2026",
-      "image": "assets/Gallery/gallery-cover.gif",
+      "image": "assets/Gallery/gallery-cover.web.webp",
       "coverStyle": "centered-cover",
       "detailSections": [
         {
           "type": "art-gallery",
           "items": [
             {
-              "src": "assets/Gallery/351778311927_.pic_hd.lossless.webp",
+              "src": "assets/Gallery/351778311927_.pic_hd.lossless.web.webp",
               "title": "",
               "width": 3000,
               "height": 3613,
@@ -2651,7 +2651,7 @@
               "tilt": -9
             },
             {
-              "src": "assets/Gallery/Screenshot_20261108_173734.jpg",
+              "src": "assets/Gallery/Screenshot_20261108_173734.web.webp",
               "title": "",
               "width": 1012,
               "height": 1349,
@@ -2659,7 +2659,7 @@
               "tilt": 6
             },
             {
-              "src": "assets/Gallery/mmexport1693652100097_edit_1241693462382838.lossless.webp",
+              "src": "assets/Gallery/mmexport1693652100097_edit_1241693462382838.lossless.web.webp",
               "title": "",
               "width": 4138,
               "height": 2473,
@@ -2667,7 +2667,7 @@
               "tilt": -7
             },
             {
-              "src": "assets/Gallery/三体3：云天明的童话1.lossless.webp",
+              "src": "assets/Gallery/三体3：云天明的童话1.lossless.web.webp",
               "title": "三体3：云天明的童话1",
               "width": 1782,
               "height": 3168,
@@ -2675,7 +2675,7 @@
               "tilt": 8
             },
             {
-              "src": "assets/Gallery/三体3：云天明的童话2.lossless.webp",
+              "src": "assets/Gallery/三体3：云天明的童话2.lossless.web.webp",
               "title": "三体3：云天明的童话2",
               "width": 1782,
               "height": 3168,
@@ -2683,7 +2683,7 @@
               "tilt": -6
             },
             {
-              "src": "assets/Gallery/记得时常向饼熊行注目礼.lossless.webp",
+              "src": "assets/Gallery/记得时常向饼熊行注目礼.lossless.web.webp",
               "title": "记得时常向饼熊行注目礼",
               "width": 4000,
               "height": 3000,
