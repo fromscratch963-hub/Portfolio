@@ -1,3 +1,11 @@
+const imageDimensions = {"assets/project02/6.独立站展示/首图.lossless.web.webp":[1128,884],"assets/project01/8.活动延展/路牌2 1.lossless.web.webp":[527,669],"assets/project02/5.自动化链路/服装.web.webp":[174,232],"assets/project01/9.拓展SOP/标题.lossless.webp":[511,64],"assets/project02/2.项目介绍/01.web.webp":[434,481],"assets/Gallery/361778332792_.pic.jpg":[1080,1440],"assets/project02/7.TVC制作SOP/服装3-无袖.lossless.web.webp":[2560,3840],"assets/project02/5.自动化链路/男模特头像四视图.web.webp":[130,174],"assets/project01/9.拓展SOP/流程.web.webp":[786,651],"assets/project01/9.拓展SOP/副标题.lossless.webp":[459,149],"assets/project02/6.独立站展示/男模2.web.webp":[582,522],"assets/project02/6.独立站展示/细节4.web.webp":[334,414],"assets/自媒体/四叠半上.web.webp":[997,808],"assets/project01/9.拓展SOP/背景3.web.webp":[206,141],"assets/project01-02/01-B-纸团掉落 1.web.webp":[316,176],"assets/project01/7.物料延展/场景3.web.webp":[720,968],"assets/project02/5.自动化链路/模型选择依据.web.webp":[472,162],"assets/project02/5.自动化链路/男模全身.web.webp":[234,175],"assets/project02/7.TVC制作SOP/服装2-廓形服装.lossless.web.webp":[2560,1440],"assets/Gallery/mmexport1693652100097_edit_1241693462382838.lossless.web.webp":[2560,1530],"assets/Gallery/Screenshot_20261108_173734.web.webp":[1012,1349],"assets/project01-02/剪辑.lossless.web.webp":[449,129],"assets/project02/1.封面.web.webp":[1440,1080],"assets/project01-02/03-桌面茶壶 1.web.webp":[315,177],"assets/project01-02/前期文案.lossless.webp":[553,367],"assets/project01-02/主图3.lossless.web.webp":[1027,612],"assets/project01/6.2针织/Material Theme.lossless.web.webp":[294,21],"assets/project01-02/14铁盒.web.webp":[428,240],"assets/project02/6.独立站展示/男模3.web.webp":[350,522],"assets/project01/1.KV.web.webp":[1440,1328],"assets/project01-02/11海滩.web.webp":[428,240],"assets/Gallery/三体3：云天明的童话2.lossless.web.webp":[1782,3168],"assets/project01-02/主图4.lossless.web.webp":[1019,612],"assets/project01-02/09-海滩仰卧 1.web.webp":[315,176],"assets/project02/6.独立站展示/细节1.web.webp":[344,419],"assets/project02/6.独立站展示/女模1.web.webp":[350,522],"assets/project01-02/首尾帧生成.lossless.webp":[473,82],"assets/project02/6.独立站展示/细节2.web.webp":[341,419],"assets/project01/6.1羊毛毡/Wish a good sleep!.lossless.webp":[447,196],"assets/project01/5.草图深化/草图深化背景.web.webp":[1440,2139],"assets/project01/7.物料延展/手机壳1.lossless.web.webp":[339,509],"assets/project01-02/中期文案.lossless.webp":[547,736],"assets/project01/7.物料延展/场景2.web.webp":[720,960],"assets/project01/5.草图深化/爱心.lossless.webp":[89,101],"assets/project02/6.独立站展示/服装1.web.webp":[675,1012],"assets/project01-02/低饱和.lossless.webp":[110,53],"assets/project01-02/箭头.lossless.webp":[46,91],"assets/project01-02/20-打开纸团 1.web.webp":[315,176],"assets/project02/7.TVC制作SOP/seedance截屏.web.webp":[416,465],"assets/project01/5.草图深化/草图.lossless.webp":[196,383],"assets/project02/6.独立站展示/细节5.web.webp":[342,418],"assets/project01-02/18-拾起纸团特写 1.web.webp":[315,176],"assets/project02/6.独立站展示/女装2.web.webp":[702,936],"assets/project01/6.2针织/Enjoy the quiet time~.lossless.webp":[456,291],"assets/project02/6.独立站展示/女装1-0.web.webp":[699,525],"assets/project01-02/14-灵感石特写 1.web.webp":[315,176],"assets/project01/6.2针织/media.lossless.web.webp":[1182,1488],"assets/project02/5.自动化链路/男模头像.web.webp":[130,174],"assets/project01-02/23C-大洞 1.web.webp":[315,176],"assets/project02/2.项目介绍/顶部标志.lossless.web.webp":[270,70],"assets/project01-02/14-0 1.web.webp":[317,176],"assets/project02/2.项目介绍/02.web.webp":[434,480],"assets/project01/5.草图深化/三视图.lossless.web.webp":[666,447],"assets/project01/6.2针织/标题.lossless.web.webp":[432,235],"assets/project02/4.用户画像/image 342.web.webp":[495,216],"assets/project02/5.自动化链路/平台适配.web.webp":[472,155],"assets/project01/6.1羊毛毡/黄铜钉.lossless.web.webp":[268,308],"assets/project01/7.物料延展/场景1.web.webp":[720,960],"assets/project01/10.尾页.web.webp":[1440,925],"assets/project01/5.草图深化/档案扣.lossless.web.webp":[875,1497],"assets/project01/9.拓展SOP/背景1.web.webp":[170,226],"assets/project01-02/01纸团掉落.web.webp":[428,240],"assets/project02/5.自动化链路/任务类型.web.webp":[472,228],"assets/project01/6.1羊毛毡/文案0.lossless.webp":[400,132],"assets/project01/6.1羊毛毡/头像.lossless.web.webp":[656,656],"assets/project01/9.拓展SOP/文案3.lossless.webp":[159,19],"assets/project01/2-3.IP分割线.lossless.web.webp":[1274,573],"assets/project01-02/02-挠头 1.web.webp":[315,176],"assets/project02/6.独立站展示/男模背景.lossless.web.webp":[706,1778],"assets/project01/5.草图深化/初稿.lossless.web.webp":[222,295],"assets/project01/5.草图深化/终稿.lossless.web.webp":[190,286],"assets/project01-02/主图2.lossless.web.webp":[950,561],"assets/project01/5.草图深化/气泡.lossless.webp":[600,493],"assets/project01-02/10-A-仰卧近景 1.web.webp":[315,176],"assets/project01/6.1羊毛毡/WoolFelt.lossless.web.webp":[337,236],"assets/project01-02/15-坐铁盒靠近 1.web.webp":[315,176],"assets/project01-02/20结尾.web.webp":[428,240],"assets/project01-02/09海滩.web.webp":[428,240],"assets/project02/6.独立站展示/细节3.web.webp":[334,424],"assets/project01-02/定格动画 手工粗粝感.lossless.webp":[188,116],"assets/project01/5.草图深化/Sketching & Optimization.lossless.webp":[510,605],"assets/project01/6.2针织/黄铜钉.lossless.web.webp":[237,287],"assets/project01-02/背面头像.lossless.web.webp":[693,433],"assets/project01-02/01-A-桌脚特写 1.web.webp":[315,176],"assets/project01/3.IP战略定位.web.webp":[1440,1021],"assets/project01/4.情绪板.web.webp":[1440,1009],"assets/project02/5.自动化链路/模型分配.web.webp":[351,163],"assets/project01-02/17-拾起灵感石特写 1.web.webp":[315,176],"assets/project01/5.草图深化/侧面立像 1.lossless.web.webp":[547,821],"assets/project01/7.物料延展/手机壳2.lossless.web.webp":[339,508],"assets/project01/8.活动延展/易拉宝.web.webp":[720,960],"assets/project01-02/墙面.web.webp":[1440,1456],"assets/project01/9.拓展SOP/文案1.lossless.webp":[220,20],"assets/project02/7.TVC制作SOP/minimax工作流.web.webp":[1069,346],"assets/project01/9.拓展SOP/主体.web.webp":[563,377],"assets/project02/5.自动化链路/女模头像四视图.web.webp":[131,175],"assets/project02/4.用户画像/image 343.web.webp":[495,218],"assets/Gallery/gallery-cover.web.webp":[640,640],"assets/project01-02/07-橱窗人物虚化 1.web.webp":[315,176],"assets/project01/6.2针织/文案0.lossless.webp":[343,131],"assets/project02/2.项目介绍/03.web.webp":[434,481],"assets/Gallery/351778311927_.pic_hd.lossless.web.webp":[2560,3083],"assets/project01-02/主图5.lossless.web.webp":[935,600],"assets/project01-02/10-B-仰卧想起 1.web.webp":[315,176],"assets/project02/2.项目介绍/LOGO.lossless.webp":[212,37],"assets/project02/4.用户画像/image 347.web.webp":[495,217],"assets/project01/6.2针织/头像.lossless.web.webp":[615,607],"assets/project01/7.物料延展/发夹1.lossless.web.webp":[415,232],"assets/project02/6.独立站展示/女模2.web.webp":[582,522],"assets/project01-02/【基于场景主图扩分镜提示词示例】.lossless.web.webp":[292,615],"assets/project02/6.独立站展示/服装2.web.webp":[389,584],"assets/project02/7.TVC制作SOP/服装1-反光.lossless.web.webp":[1536,1024],"assets/project01/6.1羊毛毡/背景.web.webp":[1440,3854],"assets/project02/6.独立站展示/细节6.web.webp":[334,422],"assets/project01-02/06-橱窗空镜 1.web.webp":[315,176],"assets/project01/9.拓展SOP/背景2.web.webp":[209,71],"assets/project01-02/钉子.lossless.web.webp":[193,193],"assets/project02/6.独立站展示/尾图.web.webp":[1268,851],"assets/project01/9.拓展SOP/提示词.lossless.webp":[195,173],"assets/project02/6.独立站展示/服装2-0.web.webp":[564,423],"assets/project01/7.物料延展/发夹3.lossless.web.webp":[440,263],"assets/project01/9.拓展SOP/文案2.lossless.webp":[375,22],"assets/project02/5.自动化链路/女模全身.web.webp":[234,175],"assets/project01-02/票根边框 7.png":[1013,543],"assets/project02/5.自动化链路/女模头像.web.webp":[131,175],"assets/project01-02/定格电影截图.web.webp":[799,1009],"assets/project02/7.TVC制作SOP/参考_numero_11.6s_蓝天腾空 1.web.webp":[259,146],"assets/project02/6.独立站展示/细节7.web.webp":[341,424],"assets/project02/6.独立站展示/男模1.web.webp":[350,522],"assets/project01-02/13-海滩本子特写 1.web.webp":[315,176],"assets/project01/6.1羊毛毡/Material Theme.lossless.web.webp":[294,21],"assets/project02/6.独立站展示/女装1.web.webp":[394,584],"assets/project01-02/03关灯.web.webp":[428,240],"assets/project02/7.TVC制作SOP/参考_numero_03.0s_建筑人物登场 1.web.webp":[259,146],"assets/project02/7.TVC制作SOP/参考_双手压住端头_团身起始_0.33秒.lossless.web.webp":[960,576],"assets/project01/6.2针织/背景.web.webp":[1440,3733],"assets/project01-02/黏土 织物纤维.lossless.webp":[157,108],"assets/Gallery/三体3：云天明的童话1.lossless.web.webp":[1782,3168],"assets/project01/7.物料延展/发夹2.lossless.web.webp":[410,229],"assets/project01-02/视频片段生成.lossless.webp":[386,79],"assets/project01-02/主图1.lossless.web.webp":[933,623],"assets/project02/7.TVC制作SOP/logo-master.web.webp":[832,544],"assets/project01/7.物料延展/标牌.lossless.web.webp":[412,495],"assets/project02/6.独立站展示/女模3.web.webp":[350,522],"assets/project02/3.项目任务.lossless.webp":[704,366],"assets/project01/9.拓展SOP/背景4.web.webp":[171,228],"assets/project01-02/分镜背景.web.webp":[1440,966],"assets/project02/5.自动化链路/提示词结构模板.web.webp":[472,314],"assets/Gallery/记得时常向饼熊行注目礼.lossless.web.webp":[2560,1920],"assets/project01/8.活动延展/线下物料组合.web.webp":[2560,3429],"assets/project02/7.TVC制作SOP/分镜表.web.webp":[872,1037],"assets/project01-02/【优化材质提示词示例】.lossless.web.webp":[288,715],"assets/project01/2.核心概念/2.核心概念.web.webp":[1440,2828],"assets/project01-02/22-B-刚戳破 1.web.webp":[315,176],"assets/project01-02/路牌.lossless.web.webp":[693,897]};
+function loadPortfolioImage(image, src) {
+  const size = imageDimensions[src.split("?")[0]];
+  if (size) { image.width = size[0]; image.height = size[1]; }
+  image.loading = "lazy";
+  image.decoding = "async";
+  image.src = src;
+}
 const textFields = ["name", "role", "previous", "education"];
 let fullscreenReturnPosition = null;
 let fullscreenExitTime = 0;
@@ -137,14 +145,14 @@ function renderGallery(projects) {
       tile.classList.add("tile--website-card");
       const cover = document.createElement("img");
       cover.className = "website-card-cover";
-      cover.src = project.image;
+      loadPortfolioImage(cover, project.image);
       cover.alt = "";
       tile.append(cover);
     } else if (project.coverStyle === "centered-cover") {
       tile.classList.add("tile--centered-cover");
       const cover = document.createElement("img");
       cover.className = "centered-tile-cover";
-      cover.src = project.image;
+      loadPortfolioImage(cover, project.image);
       cover.alt = "";
       tile.append(cover);
     }
@@ -170,7 +178,7 @@ function renderGallery(projects) {
       tile.append(video);
       const frame = document.createElement("img");
       frame.className = "tile-preview-frame";
-      frame.src = "assets/project01-02/票根边框 7.png";
+      loadPortfolioImage(frame, "assets/project01-02/票根边框 7.png");
       frame.alt = "";
       frame.setAttribute("aria-hidden", "true");
       tile.append(frame);
@@ -203,7 +211,7 @@ function createArtGallery(section) {
     figure.className = "art-gallery-card";
     const image = document.createElement("img");
       image.decoding = "async";
-    image.src = item.src;
+    loadPortfolioImage(image, item.src);
     image.alt = item.title || `画廊作品 ${index + 1}`;
     image.decoding = "async";
     image.draggable = false;
@@ -461,7 +469,7 @@ function openProject(project, navigate = true) {
       const image = document.createElement("img");
       image.decoding = "async";
       image.loading = "lazy";
-      image.src = section.src;
+      loadPortfolioImage(image, section.src);
       image.alt = "";
       detailContent.append(image);
       return;
@@ -477,7 +485,7 @@ function openProject(project, navigate = true) {
       if (section.background) {
       const background = document.createElement("img");
       background.className = "composition-background";
-      background.src = section.background;
+      loadPortfolioImage(background, section.background);
       background.alt = "";
       composition.append(background);
       }
@@ -486,7 +494,7 @@ function openProject(project, navigate = true) {
         const image = document.createElement("img");
       image.decoding = "async";
         image.className = `composition-layer${layer.shape ? ` composition-layer--${layer.shape}` : ""}`;
-        image.src = layer.src;
+        loadPortfolioImage(image, layer.src);
         image.alt = "";
         image.style.left = layer.left;
         image.style.top = layer.top;
@@ -528,7 +536,7 @@ function openProject(project, navigate = true) {
 
       const background = document.createElement("img");
       background.className = "concept-background";
-      background.src = section.background;
+      loadPortfolioImage(background, section.background);
       background.alt = "";
       concept.append(background);
 
@@ -536,7 +544,7 @@ function openProject(project, navigate = true) {
         const image = document.createElement("img");
       image.decoding = "async";
         image.className = `concept-copy concept-copy--${copy.position}`;
-        image.src = copy.src;
+        loadPortfolioImage(image, copy.src);
         image.alt = "";
         concept.append(image);
       });
@@ -544,7 +552,7 @@ function openProject(project, navigate = true) {
       if (section.dividerImage) {
         const divider = document.createElement("img");
         divider.className = "concept-divider";
-        divider.src = section.dividerImage;
+        loadPortfolioImage(divider, section.dividerImage);
         divider.alt = "";
         concept.append(divider);
       }
