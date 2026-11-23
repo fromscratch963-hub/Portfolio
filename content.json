@@ -1,7 +1,7 @@
 {
   "profile": {
-    "name": "AIGC设计师",
-    "role": "具备 AIGC 商业视觉项目经验，擅长创意落地和流程搭建。毕业于东南大学。",
+    "name": "AIGC创意策划",
+    "role": "具备 AIGC 商业视觉项目经验，擅长创意落地和内容运营。毕业于东南大学。",
     "previous": "",
     "education": "",
     "location": ""
@@ -448,7 +448,8 @@
           "type": "image",
           "src": "assets/project01/10.尾页.web.webp"
         }
-      ]
+      ],
+      "sidebarSection": "项目"
     },
     {
       "title": "动画短片《岩页页的纸团子》",
@@ -803,7 +804,8 @@
             }
           ]
         }
-      ]
+      ],
+      "sidebarSection": "项目"
     },
     {
       "title": "外境电商AIGC自动化营销方案",
@@ -2554,7 +2556,8 @@
         }
       ],
       "autoplay": false,
-      "coverStyle": "website-card"
+      "coverStyle": "website-card",
+      "sidebarSection": "项目"
     },
     {
       "title": "",
@@ -2618,11 +2621,12 @@
     },
     {
       "title": "故事解读类长内容",
-      "sidebarTitle": "自媒体代表作",
+      "sidebarTitle": "代表作：故事解读类长内容",
       "year": "2026",
       "image": "assets/自媒体/四叠半上.web.webp",
       "externalUrl": "https://www.bilibili.com/video/BV19DKJ6hEM2/?spm_id_from=333.1387.homepage.video_card.click",
-      "coverStyle": "centered-cover"
+      "coverStyle": "centered-cover",
+      "sidebarSection": "自媒体"
     },
     {
       "title": "Gallery",
@@ -2692,7 +2696,8 @@
             }
           ]
         }
-      ]
+      ],
+      "sidebarSection": "策展"
     }
   ]
 }

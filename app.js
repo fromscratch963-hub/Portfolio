@@ -11,7 +11,56 @@ let fullscreenReturnPosition = null;
 let fullscreenExitTime = 0;
 let navigationProjects = [];
 let disposeArtGallery = () => {};
+let detailZoom = 1;
 history.scrollRestoration = "manual";
+
+function createExternalLinkIcon() {
+  const icon = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+  icon.setAttribute("class", "external-link-icon");
+  icon.setAttribute("viewBox", "0 0 24 24");
+  icon.setAttribute("aria-hidden", "true");
+  icon.innerHTML = '<path d="M15 3h6v6"/><path class="external-arrow" d="M10 14 21 3"/><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>';
+  return icon;
+}
+
+function setSidebarCollapsed(collapsed) {
+  document.body.classList.toggle("sidebar-collapsed", collapsed);
+  const toggle = document.querySelector("#sidebar-collapse-toggle");
+  toggle.setAttribute("aria-expanded", String(!collapsed));
+  toggle.setAttribute("aria-label", collapsed ? "显示侧边栏" : "隐藏侧边栏");
+  toggle.title = collapsed ? "显示侧边栏" : "隐藏侧边栏";
+  const chevron = toggle.querySelector(".panel-chevron");
+  chevron.setAttribute("d", collapsed ? "m14 15 3-3-3-3" : "m16 15-3-3 3-3");
+}
+
+function updateBackToTopVisibility() {
+  document.body.classList.toggle("detail-scrolled", document.body.classList.contains("detail-open") && window.scrollY > 300);
+}
+
+function updateDetailZoomLayout() {
+  const view = document.querySelector("#detail-view");
+  const content = document.querySelector("#detail-content");
+  if (view.hidden) return;
+  view.style.height = detailZoom === 1
+    ? ""
+    : `${Math.max(window.innerHeight, content.offsetHeight * detailZoom)}px`;
+}
+
+function setDetailZoom(value) {
+  detailZoom = Math.max(0.5, Math.min(2, Math.round(value * 1000) / 1000));
+  document.querySelector("#detail-content").style.setProperty("--detail-zoom", String(detailZoom));
+  document.querySelector("#detail-zoom-range").value = String(Math.round(detailZoom * 100));
+  document.querySelector("#detail-zoom-value").value = `${Math.round(detailZoom * 100)}%`;
+  updateDetailZoomLayout();
+}
+
+function stepDetailZoom(direction) {
+  setDetailZoom(detailZoom + direction * 0.1);
+}
+
+document.querySelector("#sidebar-collapse-toggle").addEventListener("click", () => {
+  setSidebarCollapsed(!document.body.classList.contains("sidebar-collapsed"));
+});
 
 function saveNavigationPosition() {
   history.replaceState({ ...history.state, scrollX: window.scrollX, scrollY: window.scrollY }, "");
@@ -23,9 +72,13 @@ function showNavigationState() {
   if (state?.view === "project" && project) {
     openProject(project, false);
   } else {
+    document.body.classList.remove("detail-open");
+    document.body.classList.remove("detail-scrolled");
+    setSidebarCollapsed(false);
     disposeArtGallery();
     document.querySelectorAll("#detail-content video").forEach(video => video.pause());
     document.querySelector("#detail-view").hidden = true;
+    setDetailZoom(1);
     document.querySelector("#gallery").hidden = false;
     document.body.classList.remove("video-expanded");
     document.querySelectorAll(".web-fullscreen").forEach(player => player.classList.remove("web-fullscreen"));
@@ -35,13 +88,49 @@ function showNavigationState() {
 }
 
 window.addEventListener("popstate", showNavigationState);
-window.addEventListener("scroll", saveNavigationPosition, { passive: true });
-
-document.querySelector(".sidebar-avatar-home").addEventListener("click", () => {
-  history.replaceState({ view: "home", scrollX: 0, scrollY: 0 }, "");
-  showNavigationState();
-  window.scrollTo(0, 0);
+window.addEventListener("scroll", () => {
+  saveNavigationPosition();
+  updateBackToTopVisibility();
+}, { passive: true });
+document.querySelector("#back-to-top").addEventListener("click", () => {
+  window.scrollTo({ top: 0, behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "instant" : "smooth" });
 });
+const detailZoomControls = document.querySelector("#detail-zoom-controls");
+detailZoomControls.addEventListener("click", event => {
+  const action = event.target.closest("[data-zoom-action]")?.dataset.zoomAction;
+  if (action === "fit") setDetailZoom(1);
+  if (action === "out") stepDetailZoom(-1);
+  if (action === "in") stepDetailZoom(1);
+});
+document.querySelector("#detail-zoom-range").addEventListener("input", event => setDetailZoom(Number(event.target.value) / 100));
+new ResizeObserver(updateDetailZoomLayout).observe(document.querySelector("#detail-content"));
+window.addEventListener("resize", updateDetailZoomLayout, { passive: true });
+document.querySelector("#detail-view").addEventListener("wheel", event => {
+  if (!document.body.classList.contains("detail-open") || (!event.metaKey && !event.ctrlKey)) return;
+  event.preventDefault();
+  event.stopPropagation();
+  const delta = event.deltaY * (event.deltaMode === 1 ? 16 : event.deltaMode === 2 ? window.innerHeight : 1);
+  setDetailZoom(detailZoom * Math.exp(-delta * 0.002));
+}, { capture: true, passive: false });
+document.addEventListener("keydown", event => {
+  if (!document.body.classList.contains("detail-open") || document.querySelector("#detail-view").hidden) return;
+  if (event.target.closest?.("input, textarea, [contenteditable='true']")) return;
+  const command = event.metaKey || event.ctrlKey;
+  const plusKey = ["+", "=", "Add"].includes(event.key) || ["Equal", "NumpadAdd"].includes(event.code);
+  const minusKey = ["-", "−", "_", "Subtract"].includes(event.key) || event.code === "NumpadSubtract";
+  const zeroKey = event.key === "0" || ["Digit0", "Numpad0"].includes(event.code);
+  const oneKey = ["1", "!"].includes(event.key) || event.code === "Digit1";
+  let action = null;
+  if (command && plusKey) action = "in";
+  else if (command && minusKey) action = "out";
+  else if (command && zeroKey) action = "100";
+  else if (event.shiftKey && oneKey) action = "fit";
+  if (!action) return;
+  event.preventDefault();
+  if (action === "in") stepDetailZoom(1);
+  else if (action === "out") stepDetailZoom(-1);
+  else if (action === "100" || action === "fit") setDetailZoom(1);
+}, true);
 
 function restoreVideoPosition() {
   if (!fullscreenReturnPosition) return;
@@ -111,8 +200,24 @@ function openProjectDestination(project) {
 
 function renderProjects(projects) {
   const list = document.querySelector("#project-list");
+  const sections = new Map();
+
   projects.forEach((project, projectIndex) => {
     if (!hasProjectTile(project)) return;
+    const sectionName = project.sidebarSection || "项目";
+    if (!sections.has(sectionName)) {
+      const section = document.createElement("section");
+      section.className = "project-section";
+      const heading = document.createElement("p");
+      heading.className = "project-section-title";
+      heading.textContent = `/ ${sectionName}`;
+      const items = document.createElement("div");
+      items.className = "project-section-items";
+      section.append(heading, items);
+      sections.set(sectionName, items);
+      list.append(section);
+    }
+
     const row = document.createElement("button");
     row.className = "project-row";
     row.type = "button";
@@ -120,15 +225,26 @@ function renderProjects(projects) {
     row.dataset.projectIndex = projectIndex;
     row.addEventListener("mouseenter", () => warmProjectImages(project), { once: true });
 
+    const bullet = document.createElement("span");
+    bullet.className = "project-bullet";
+    bullet.textContent = "•";
+    bullet.setAttribute("aria-hidden", "true");
+
     const title = document.createElement("span");
     title.className = "project-title";
     title.textContent = project.sidebarTitle ?? project.title ?? "未命名项目";
+    if (project.externalUrl) {
+      title.classList.add("has-external-link");
+      title.setAttribute("aria-label", `${title.textContent}（外部链接，新标签页打开）`);
+      title.append(createExternalLinkIcon());
+    }
 
     const year = document.createElement("span");
+    year.className = "project-year";
     year.textContent = project.year || "";
 
-    row.append(title, year);
-    list.append(row);
+    row.append(bullet, title, year);
+    sections.get(sectionName).append(row);
     const syncTile = () => {
       const tile = document.querySelector(`.tile[data-project-index="${projectIndex}"]`);
       row.classList.add("is-active");
@@ -165,6 +281,13 @@ function renderGallery(projects) {
     name.className = "tile-project-name";
     name.textContent = project.title || "未命名项目";
     name.setAttribute("aria-hidden", "true");
+    if (project.externalUrl) {
+      const hint = document.createElement("span");
+      hint.className = "tile-external-hint";
+      hint.setAttribute("aria-hidden", "true");
+      hint.append(createExternalLinkIcon());
+      tile.append(hint);
+    }
     if (project.coverStyle === "website-card") {
       tile.classList.add("tile--website-card");
       const cover = document.createElement("img");
@@ -181,7 +304,9 @@ function renderGallery(projects) {
       tile.append(cover);
     }
     tile.type = "button";
-    tile.setAttribute("aria-label", `打开${project.title || "未命名项目"}详情`);
+    tile.setAttribute("aria-label", project.externalUrl
+      ? `在新标签页打开外部链接：${project.title || "未命名项目"}`
+      : `打开${project.title || "未命名项目"}详情`);
     tile.addEventListener("click", () => openProjectDestination(project));
     if (project.image && !["website-card", "centered-cover"].includes(project.coverStyle)) {
       tile.style.backgroundImage = `url(${JSON.stringify(project.image)})`;
@@ -368,11 +493,14 @@ function openProject(project, navigate = true) {
     saveNavigationPosition();
     history.pushState({ view: "project", projectIndex: navigationProjects.indexOf(project), scrollX: 0, scrollY: 0 }, "");
   }
+  document.body.classList.add("detail-open");
+  setSidebarCollapsed(false);
   const gallery = document.querySelector("#gallery");
   const detailView = document.querySelector("#detail-view");
   const detailContent = document.querySelector("#detail-content");
   disposeArtGallery();
   detailContent.replaceChildren();
+  setDetailZoom(1);
 
   (project.detailSections || []).forEach((section) => {
     if (section.type === "art-gallery") {
@@ -598,6 +726,7 @@ function openProject(project, navigate = true) {
     });
   });
   window.scrollTo(0, 0);
+  updateBackToTopVisibility();
 }
 
 document.addEventListener("keydown", (event) => {
