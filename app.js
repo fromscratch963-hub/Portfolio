@@ -762,3 +762,10 @@ fetch("./content.json")
     showNavigationState();
   })
   .catch((error) => console.error(error));
+
+// The avatar always navigates to the home view, regardless of project history.
+document.querySelector(".sidebar-avatar-home").addEventListener("click", () => {
+  saveNavigationPosition();
+  history.pushState({ view: "home", scrollX: 0, scrollY: 0 }, "");
+  showNavigationState();
+});
